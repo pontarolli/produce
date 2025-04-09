@@ -78,11 +78,12 @@
             "7d19df1a73516aaf",
             "1335a984946eeda7",
             "178b2fdb898e99d9",
-            "15e95de2abba7016"
+            "15e95de2abba7016",
+            "ee520e86be8fa9e4"
         ],
         "x": 514,
         "y": 1039,
-        "w": 732,
+        "w": 772,
         "h": 282
     },
     {
@@ -97,11 +98,12 @@
             "0e541b62945a0a28",
             "71e4dc030fdd0dc2",
             "4648c50e63f30d4a",
-            "4267972d04d118b6"
+            "4267972d04d118b6",
+            "26c69fe7cdb3f048"
         ],
         "x": 508,
         "y": 1353,
-        "w": 514.0000152587891,
+        "w": 558,
         "h": 754
     },
     {
@@ -113,12 +115,11 @@
             "label": true
         },
         "nodes": [
-            "ca54d2444135848d",
-            "79219bfd94fcba84"
+            "ca54d2444135848d"
         ],
         "x": 514,
         "y": 279,
-        "w": 732,
+        "w": 252,
         "h": 82
     },
     {
@@ -381,12 +382,23 @@
             "99501685f523d926",
             "f06627d188e74929",
             "d9047392256734d1",
-            "848678497b06d430"
+            "848678497b06d430",
+            "21d143549c9300b2",
+            "641bb0623f281ed0",
+            "bd2a889ef6af5fef",
+            "c269358c1233d359",
+            "ab2df149c5cf3e66",
+            "f50ce91cc3e28873",
+            "c77f44f94f19fb09",
+            "893f65a534b0a4ce",
+            "50a62718df0f46b2",
+            "276269a611bd7ef1",
+            "22a43b2920bd1767"
         ],
         "x": 528,
-        "y": 2113,
-        "w": 1100,
-        "h": 1920
+        "y": 2099,
+        "w": 1738,
+        "h": 1934
     },
     {
         "id": "8e30bfbd13c6747d",
@@ -424,17 +436,17 @@
             "05023cf9555abcb5",
             "0517d72a28c841ed",
             "4d2f5ed1f3da9d6f",
-            "017899f51ff5d8bd",
             "ffa1e7c582d97f88",
             "9117319ad6309322",
             "fdfaab2921229013",
             "567a0b50c196564b",
-            "9ad4336ed6209db9"
+            "9ad4336ed6209db9",
+            "53094b7afbb6be12"
         ],
         "x": 534,
         "y": 4059,
-        "w": 1698,
-        "h": 748
+        "w": 1152,
+        "h": 1008
     },
     {
         "id": "5438809457a42244",
@@ -448,25 +460,13 @@
             "3e94a87b9ae07bbc",
             "9de5c19daff6b4db",
             "63f2a9cb575789f8",
-            "641bb0623f281ed0",
-            "bd2a889ef6af5fef",
-            "c269358c1233d359",
-            "a9ec9180fbe55ac3",
-            "ab2df149c5cf3e66",
-            "f50ce91cc3e28873",
-            "c77f44f94f19fb09",
-            "d3601885a58e8154",
-            "893f65a534b0a4ce",
-            "50a62718df0f46b2",
-            "276269a611bd7ef1",
-            "59119bd360af1214",
-            "22a43b2920bd1767",
-            "f63ca460d7690195"
+            "f63ca460d7690195",
+            "b737cc241e46fcfc"
         ],
-        "x": 534,
-        "y": 4879,
+        "x": 554,
+        "y": 5219,
         "w": 1082,
-        "h": 902
+        "h": 668
     },
     {
         "id": "c188b764dd205f99",
@@ -1401,8 +1401,8 @@
             "b84b24dd73976a24",
             "ece6b096c976cf96"
         ],
-        "x": 574,
-        "y": 5159,
+        "x": 594,
+        "y": 5519,
         "w": 852,
         "h": 342
     },
@@ -1430,8 +1430,8 @@
             "9001f6e9244b5a13",
             "d12db9e945c761d6"
         ],
-        "x": 574,
-        "y": 4939,
+        "x": 594,
+        "y": 5299,
         "w": 992,
         "h": 182
     },
@@ -1640,6 +1640,36 @@
         "h": 242
     },
     {
+        "id": "9ad4336ed6209db9",
+        "type": "group",
+        "z": "13170589.bf6fd2",
+        "g": "8e30bfbd13c6747d",
+        "name": "Default process control",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "eb1b40e8d69d8951",
+            "7cc943e5f69b5aa2",
+            "373b01054c442936",
+            "650cc2be253d9125",
+            "53863c712e61fe47",
+            "3af48236db2042f4",
+            "4cb975919734d2c2",
+            "06672febd3cab359",
+            "501c8add3a8dbc44",
+            "fda97550fba21f88",
+            "a45695da552dcff5",
+            "205d0d57abe6986f",
+            "3b037be1ad258ca7",
+            "4d78c555ea251c40"
+        ],
+        "x": 574,
+        "y": 4639,
+        "w": 572,
+        "h": 402
+    },
+    {
         "id": "4f0de0a30c771907",
         "type": "group",
         "z": "13170589.bf6fd2",
@@ -1799,36 +1829,6 @@
         "y": 2599,
         "w": 352,
         "h": 162
-    },
-    {
-        "id": "9ad4336ed6209db9",
-        "type": "group",
-        "z": "13170589.bf6fd2",
-        "g": "8e30bfbd13c6747d",
-        "name": "Default process control",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "eb1b40e8d69d8951",
-            "7cc943e5f69b5aa2",
-            "373b01054c442936",
-            "650cc2be253d9125",
-            "53863c712e61fe47",
-            "3af48236db2042f4",
-            "4cb975919734d2c2",
-            "06672febd3cab359",
-            "501c8add3a8dbc44",
-            "fda97550fba21f88",
-            "a45695da552dcff5",
-            "205d0d57abe6986f",
-            "3b037be1ad258ca7",
-            "048e89a7313b8243"
-        ],
-        "x": 1674,
-        "y": 4339,
-        "w": 532,
-        "h": 442
     },
     {
         "id": "15fdc347.1238cd",
@@ -2059,7 +2059,7 @@
         "type": "ui_tab",
         "name": "Line pressure",
         "icon": "dashboard",
-        "order": 17,
+        "order": 18,
         "disabled": false,
         "hidden": false
     },
@@ -2198,7 +2198,7 @@
         "type": "ui_tab",
         "name": "Home",
         "icon": "dashboard",
-        "order": 1,
+        "order": 8,
         "disabled": false,
         "hidden": false
     },
@@ -2210,17 +2210,6 @@
         "order": 5,
         "disp": true,
         "width": 10,
-        "collapse": false,
-        "className": ""
-    },
-    {
-        "id": "ce47d8980738f079",
-        "type": "ui_group",
-        "name": "List services",
-        "tab": "47987123ef818ed4",
-        "order": 2,
-        "disp": true,
-        "width": "20",
         "collapse": false,
         "className": ""
     },
@@ -2246,7 +2235,7 @@
         "type": "ui_tab",
         "name": "Dashboard",
         "icon": "dashboard",
-        "order": 15,
+        "order": 16,
         "disabled": false,
         "hidden": false
     },
@@ -2265,27 +2254,16 @@
         "type": "ui_tab",
         "name": "Dashboard",
         "icon": "dashboard",
-        "order": 16,
+        "order": 17,
         "disabled": false,
         "hidden": false
-    },
-    {
-        "id": "15f331c77a4b5709",
-        "type": "ui_group",
-        "name": "List actions",
-        "tab": "47987123ef818ed4",
-        "order": 3,
-        "disp": true,
-        "width": 20,
-        "collapse": false,
-        "className": ""
     },
     {
         "id": "d711948e443e56cd",
         "type": "ui_tab",
         "name": "List services",
         "icon": "dashboard",
-        "order": 7,
+        "order": 14,
         "disabled": false,
         "hidden": false
     },
@@ -2294,18 +2272,18 @@
         "type": "ui_tab",
         "name": "6-Communicate",
         "icon": "dashboard",
-        "order": 9,
+        "order": 3,
         "disabled": false,
         "hidden": false
     },
     {
         "id": "36a8ea7d81551bea",
         "type": "ui_group",
-        "name": "List nodes",
+        "name": "List of nodes",
         "tab": "47987123ef818ed4",
-        "order": 1,
+        "order": 2,
         "disp": true,
-        "width": "20",
+        "width": "30",
         "collapse": false,
         "className": ""
     },
@@ -2314,7 +2292,7 @@
         "type": "ui_tab",
         "name": "TQ01 loop control test natts",
         "icon": "dashboard",
-        "order": 19,
+        "order": 20,
         "disabled": false,
         "hidden": false
     },
@@ -2323,9 +2301,9 @@
         "type": "ui_group",
         "name": "AAS Data",
         "tab": "d745789b593fc54f",
-        "order": 3,
+        "order": 4,
         "disp": false,
-        "width": 12,
+        "width": 30,
         "collapse": false,
         "className": ""
     },
@@ -2334,9 +2312,9 @@
         "type": "ui_group",
         "name": "Controlo data",
         "tab": "d745789b593fc54f",
-        "order": 4,
+        "order": 3,
         "disp": false,
-        "width": "12",
+        "width": 30,
         "collapse": false,
         "className": ""
     },
@@ -2345,7 +2323,7 @@
         "type": "ui_tab",
         "name": "R01 Tank pressure test opcua",
         "icon": "dashboard",
-        "order": 20,
+        "order": 21,
         "disabled": false,
         "hidden": false
     },
@@ -2602,7 +2580,7 @@
         "type": "ui_tab",
         "name": "Dashboard",
         "icon": "dashboard",
-        "order": 21,
+        "order": 22,
         "disabled": false,
         "hidden": false
     },
@@ -2622,7 +2600,7 @@
         "type": "ui_tab",
         "name": "Select",
         "icon": "dashboard",
-        "order": 22,
+        "order": 23,
         "disabled": false,
         "hidden": false
     },
@@ -2641,7 +2619,7 @@
         "type": "ui_tab",
         "name": "Teste Dropdown",
         "icon": "dashboard",
-        "order": 14,
+        "order": 15,
         "disabled": false,
         "hidden": false
     },
@@ -2705,7 +2683,7 @@
         "type": "ui_tab",
         "name": "Home",
         "icon": "dashboard",
-        "order": 23,
+        "order": 24,
         "disabled": false,
         "hidden": false
     },
@@ -2734,7 +2712,7 @@
         "type": "ui_tab",
         "name": "Shed Hot Water Settings",
         "icon": "fa-settings",
-        "order": 24,
+        "order": 25,
         "disabled": false,
         "hidden": true
     },
@@ -2743,7 +2721,7 @@
         "type": "ui_tab",
         "name": "Water",
         "icon": "dashboard",
-        "order": 18,
+        "order": 19,
         "disabled": false,
         "hidden": false
     },
@@ -2752,9 +2730,9 @@
         "type": "ui_group",
         "name": "Assets (controllers)",
         "tab": "10fce37c.85a72d",
-        "order": 2,
+        "order": 3,
         "disp": true,
-        "width": 7,
+        "width": 30,
         "collapse": false,
         "className": ""
     },
@@ -2763,7 +2741,7 @@
         "type": "ui_tab",
         "name": "7-Select",
         "icon": "dashboard",
-        "order": 10,
+        "order": 4,
         "disabled": false,
         "hidden": false
     },
@@ -2772,7 +2750,7 @@
         "type": "ui_tab",
         "name": "8-Analyze",
         "icon": "dashboard",
-        "order": 11,
+        "order": 5,
         "disabled": false,
         "hidden": false
     },
@@ -2781,9 +2759,9 @@
         "type": "ui_group",
         "name": "Assets (controllers)",
         "tab": "f0a5e3b802cd5580",
-        "order": 2,
+        "order": 3,
         "disp": true,
-        "width": 8,
+        "width": 30,
         "collapse": false,
         "className": ""
     },
@@ -2792,7 +2770,7 @@
         "type": "ui_tab",
         "name": "9-Compose",
         "icon": "dashboard",
-        "order": 12,
+        "order": 6,
         "disabled": false,
         "hidden": false
     },
@@ -2801,9 +2779,9 @@
         "type": "ui_group",
         "name": "Applications",
         "tab": "0a13573397fc86ae",
-        "order": 1,
+        "order": 2,
         "disp": true,
-        "width": "20",
+        "width": 30,
         "collapse": false,
         "className": ""
     },
@@ -2812,7 +2790,7 @@
         "type": "ui_tab",
         "name": "10-Manage",
         "icon": "dashboard",
-        "order": 13,
+        "order": 7,
         "disabled": false,
         "hidden": false
     },
@@ -2832,7 +2810,7 @@
         "type": "ui_tab",
         "name": "Home",
         "icon": "dashboard",
-        "order": 2,
+        "order": 9,
         "disabled": false,
         "hidden": false
     },
@@ -2851,7 +2829,7 @@
         "type": "ui_tab",
         "name": "Dashboard Example",
         "icon": "dashboard",
-        "order": 3
+        "order": 10
     },
     {
         "id": "example-group",
@@ -2869,7 +2847,7 @@
         "type": "ui_tab",
         "name": "Example",
         "icon": "dashboard",
-        "order": 4,
+        "order": 11,
         "disabled": false,
         "hidden": false
     },
@@ -2889,7 +2867,7 @@
         "type": "ui_tab",
         "name": "Dashboard5",
         "icon": "dashboard5",
-        "order": 25,
+        "order": 26,
         "disabled": false,
         "hidden": false
     },
@@ -2908,7 +2886,7 @@
         "type": "ui_tab",
         "name": "Dashboard",
         "icon": "dashboard",
-        "order": 5
+        "order": 12
     },
     {
         "id": "8b3784e33ba42593",
@@ -2925,7 +2903,7 @@
         "type": "ui_tab",
         "name": "Home",
         "icon": "dashboard",
-        "order": 26,
+        "order": 27,
         "disabled": false,
         "hidden": false
     },
@@ -2934,16 +2912,16 @@
         "type": "ui_tab",
         "name": "Exemplo Dashboard",
         "icon": "dashboard",
-        "order": 6
+        "order": 13
     },
     {
         "id": "4e61cd5c3f54f1fb",
         "type": "ui_group",
         "name": "Assets (sensors)",
         "tab": "10fce37c.85a72d",
-        "order": 1,
+        "order": 2,
         "disp": true,
-        "width": 7,
+        "width": 30,
         "collapse": false,
         "className": ""
     },
@@ -2952,9 +2930,9 @@
         "type": "ui_group",
         "name": "Assets (actuators)",
         "tab": "10fce37c.85a72d",
-        "order": 3,
+        "order": 4,
         "disp": true,
-        "width": 7,
+        "width": 30,
         "collapse": false,
         "className": ""
     },
@@ -3045,7 +3023,7 @@
         "type": "ui_tab",
         "name": "Home",
         "icon": "dashboard",
-        "order": 27,
+        "order": 28,
         "disabled": false,
         "hidden": false
     },
@@ -3054,7 +3032,7 @@
         "type": "ui_group",
         "name": "Sinus",
         "tab": "f0a5e3b802cd5580",
-        "order": 4,
+        "order": 5,
         "disp": true,
         "width": "6",
         "collapse": false,
@@ -3076,7 +3054,7 @@
         "type": "ui_tab",
         "name": "Home",
         "icon": "dashboard",
-        "order": 28,
+        "order": 29,
         "disabled": false,
         "hidden": false
     },
@@ -3085,7 +3063,7 @@
         "type": "ui_group",
         "name": "Triangle",
         "tab": "f0a5e3b802cd5580",
-        "order": 5,
+        "order": 6,
         "disp": true,
         "width": "6",
         "collapse": false,
@@ -3096,7 +3074,7 @@
         "type": "ui_group",
         "name": "Fixed",
         "tab": "f0a5e3b802cd5580",
-        "order": 6,
+        "order": 7,
         "disp": true,
         "width": "6",
         "collapse": false,
@@ -3107,7 +3085,7 @@
         "type": "ui_tab",
         "name": "Produce",
         "icon": "dashboard",
-        "order": 8,
+        "order": 2,
         "disabled": false,
         "hidden": false
     },
@@ -3116,7 +3094,7 @@
         "type": "ui_tab",
         "name": "Tab 29",
         "icon": "dashboard",
-        "order": 29
+        "order": 30
     },
     {
         "id": "e3caa9b951fe752a",
@@ -3125,7 +3103,7 @@
         "tab": "a8c0eb8e45b6e4b2",
         "order": 1,
         "disp": true,
-        "width": 30,
+        "width": "30",
         "collapse": false,
         "className": ""
     },
@@ -3145,9 +3123,9 @@
         "type": "ui_group",
         "name": "Assets (sensors)",
         "tab": "f0a5e3b802cd5580",
-        "order": 1,
+        "order": 2,
         "disp": true,
-        "width": 8,
+        "width": 30,
         "collapse": false,
         "className": ""
     },
@@ -3156,30 +3134,9 @@
         "type": "ui_group",
         "name": "Assets (actuators)",
         "tab": "f0a5e3b802cd5580",
-        "order": 3,
-        "disp": true,
-        "width": 8,
-        "collapse": false,
-        "className": ""
-    },
-    {
-        "id": "e45986da8da98cf4",
-        "type": "ui_spacer",
-        "z": "13170589.bf6fd2",
-        "name": "spacer",
-        "group": "6c18571ee6f9aaa1",
-        "order": 16,
-        "width": 1,
-        "height": 1
-    },
-    {
-        "id": "b928f494baf90348",
-        "type": "ui_group",
-        "name": "Default process control",
-        "tab": "0a13573397fc86ae",
         "order": 4,
         "disp": true,
-        "width": "6",
+        "width": 30,
         "collapse": false,
         "className": ""
     },
@@ -3188,6 +3145,7 @@
         "type": "ui_tab",
         "name": "vetor-exemplo",
         "icon": "dashboard",
+        "order": 31,
         "disabled": false,
         "hidden": false
     },
@@ -3211,6 +3169,125 @@
         "disp": true,
         "width": "6",
         "collapse": false
+    },
+    {
+        "id": "0f4eaf529ca1a110",
+        "type": "ui_group",
+        "name": "Group 1",
+        "tab": "",
+        "order": 1,
+        "disp": true,
+        "width": 6
+    },
+    {
+        "id": "5374b8ca18ce160e",
+        "type": "ui_group",
+        "name": "List of services",
+        "tab": "47987123ef818ed4",
+        "order": 3,
+        "disp": true,
+        "width": 30,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "e18b3ce78090b8e5",
+        "type": "ui_group",
+        "name": "List of actions",
+        "tab": "47987123ef818ed4",
+        "order": 4,
+        "disp": true,
+        "width": 30,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "45109acd4e17e7d9",
+        "type": "ui_group",
+        "name": "Description",
+        "tab": "47987123ef818ed4",
+        "order": 1,
+        "disp": true,
+        "width": 30,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "f9a47ab46475c0cf",
+        "type": "ui_group",
+        "name": "Start/Stop",
+        "tab": "d745789b593fc54f",
+        "order": 2,
+        "disp": true,
+        "width": 30,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "be29d35420eb4c02",
+        "type": "ui_group",
+        "name": "Description",
+        "tab": "10fce37c.85a72d",
+        "order": 1,
+        "disp": true,
+        "width": 30,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "2d655f8a0ec04e64",
+        "type": "ui_group",
+        "name": "Description",
+        "tab": "f0a5e3b802cd5580",
+        "order": 1,
+        "disp": true,
+        "width": 30,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "8c60dcc13bef6894",
+        "type": "ui_group",
+        "name": "Description",
+        "tab": "0a13573397fc86ae",
+        "order": 1,
+        "disp": true,
+        "width": 30,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "b8620c0b3080bcf8",
+        "type": "ui_group",
+        "name": "Description",
+        "tab": "d745789b593fc54f",
+        "order": 1,
+        "disp": true,
+        "width": 30,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "947144ab796917bf",
+        "type": "ui_group",
+        "name": "Description",
+        "tab": "",
+        "order": 1,
+        "disp": true,
+        "width": "30",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "eb768e167184ae94",
+        "type": "ui_group",
+        "name": "Status",
+        "tab": "",
+        "order": 1,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
     },
     {
         "id": "c98c8a46c1d44eb2",
@@ -3369,8 +3446,8 @@
         "place": "Select",
         "group": "37fb2e47c64c6404",
         "order": 2,
-        "width": 7,
-        "height": 1,
+        "width": 0,
+        "height": 0,
         "passthru": true,
         "multiple": false,
         "options": [],
@@ -3549,7 +3626,7 @@
         "name": "",
         "topic": "$node.list",
         "options": "{\"withServices\":true}",
-        "x": 800,
+        "x": 780,
         "y": 1080,
         "wires": [
             [
@@ -3618,8 +3695,8 @@
         "type": "ui_template",
         "z": "13170589.bf6fd2",
         "g": "f67e7e89a114723f",
-        "group": "ce47d8980738f079",
-        "name": "List services",
+        "group": "5374b8ca18ce160e",
+        "name": "services",
         "order": 1,
         "width": 0,
         "height": 0,
@@ -3629,7 +3706,7 @@
         "resendOnRefresh": true,
         "templateScope": "local",
         "className": "",
-        "x": 1150,
+        "x": 1140,
         "y": 1200,
         "wires": [
             []
@@ -3640,8 +3717,8 @@
         "type": "ui_template",
         "z": "13170589.bf6fd2",
         "g": "f67e7e89a114723f",
-        "group": "15f331c77a4b5709",
-        "name": "List actions",
+        "group": "e18b3ce78090b8e5",
+        "name": "actions",
         "order": 1,
         "width": 0,
         "height": 0,
@@ -3651,7 +3728,7 @@
         "resendOnRefresh": true,
         "templateScope": "local",
         "className": "",
-        "x": 1150,
+        "x": 1140,
         "y": 1280,
         "wires": [
             []
@@ -3737,7 +3814,7 @@
         "z": "13170589.bf6fd2",
         "g": "f67e7e89a114723f",
         "group": "36a8ea7d81551bea",
-        "name": "List nodes",
+        "name": "nodes",
         "order": 1,
         "width": 0,
         "height": 0,
@@ -3747,8 +3824,8 @@
         "resendOnRefresh": true,
         "templateScope": "local",
         "className": "",
-        "x": 1150,
-        "y": 1080,
+        "x": 1130,
+        "y": 1120,
         "wires": [
             []
         ]
@@ -3784,17 +3861,17 @@
         "z": "13170589.bf6fd2",
         "g": "e76b2f922b1b4495",
         "group": "e3caa9b951fe752a",
-        "name": "produce",
+        "name": "Description produce",
         "order": 1,
-        "width": 0,
-        "height": 0,
-        "format": "<body>\n  <div class=\"container\" style=\"font-family: Arial, sans-serif; color: #333;\">\n    <h1 style=\"text-align: center; font-size: 24px; font-weight: bold; margin-bottom: 20px;\">\n      Our Proposal of the Produce Part of the PnPr Architecture\n    </h1>\n\n    <!-- <div style=\"display: flex; justify-content: center;\">\n      <img src=\"http://<192.168.1.105:1880/public/PNG_transparency_demonstration_1.png\" \n            alt=\"Figure 2 - PnPr Architecture\"             \n            style=\"max-width: 100%; height: auto; border: 1px solid #ccc; padding: 5px;\">\n    </div> -->\n\n    <div style=\"display: flex; justify-content: center;\">\n      <img src=\"https://raw.githubusercontent.com/pontarolli/pnpr/master/figures/20250128_0744.svg\"\n           alt=\"Figure 2 - PnPr Architecture\"\n           style=\"max-width: 100%; height: auto; border: 1px solid #ccc; padding: 5px;\">\n    </div>\n\n    <div style=\"width: 90%; max-width: 1200px; margin: auto; font-size: 14px; line-height: 1.6; text-align: justify;\">\n      <p>Our proposal of the Produce part of the PnPr architecture is presented in Fig. 2. At the top, in the green\n        rectangle with dashed line, are the (5) steps of Produce, which can be interpreted from left to right:\n        communicate (6), select (7), analyze (8), compose (9) and manage (10). At the bottom of the green rectangle with\n        dashed line in Fig. 2, the number of steps is associated with their specific functions in the PnPr architecture,\n        maintaining the same numbering.</p>\n\n      <h2 style=\"font-size: 18px; font-weight: bold; margin-top: 20px;\">6) Communicate</h2>\n      <p>A total integrated networked environment is one of the I4.0 pillars. Creating I4.0 applications in the Produce\n        part requires a standardized and automatic communication among assets.</p>\n      <p>The sixth step in the Produce process, as depicted in Fig. 2 (6), involves utilizing service composer software\n        compatible with the asset communication protocol and their respective information models of the PnPr\n        architecture to establish a communication channel for creating automation applications.</p>\n      <p>In our proposal, Node-RED and the 4diac IDE for IEC 61499 were chosen as the composers due to their industry\n        acceptance and communication support for our PnPr architecture (microservice, OPC UA, and HTTP).</p>\n\n      <h2 style=\"font-size: 18px; font-weight: bold; margin-top: 20px;\">7) Select</h2>\n      <p>The seventh step in the Produce process, as illustrated in Fig. 2 (7) (green rectangle), involves application\n        composers issuing a scanner request to detect all assets present in the network.</p>\n      <p>Upon receiving a response, which includes their properties, capacities, and other structured information\n        according to the information model (AAS), the data can be organized into an Asset Library, as depicted in Fig. 2\n        (7).</p>\n      <p>In our proposal, we use the Node Package Manager (NPM) and 4diac for encapsulating and distributing\n        custom-created libraries and/or blocks within the Node-RED and IEC61499 development environments.</p>\n\n      <h2 style=\"font-size: 18px; font-weight: bold; margin-top: 20px;\">8) Analyze</h2>\n      <p>In the eighth step in Produce in Fig. 2 (8) (green rectangle), the compositor analyzes the identity,\n        functionalities, and requirements of the asset(s).</p>\n      <p>The asset manager data structure in Fig. 2 (8) (E.g., Motor) supports the representation of the physical and\n        the information world, allowing the change of asset parameters, as well as the creation of asset simulation\n        models for enabling the creation of Digital Twins (DT).</p>\n\n      <h2 style=\"font-size: 18px; font-weight: bold; margin-top: 20px;\">9) Compose</h2>\n      <p>Industrial service-oriented applications mostly rely on the orchestration procedure. The ninth step in Produce\n        in Fig. 2 (9) (green rectangle) is related to the composition of applications in the PnPr architecture.</p>\n      <p>As in an \"orchestra\", the composer defines a sequence in which the assets will relate, composing the required\n        application in Fig. 2 (9) (Asset Composer).</p>\n\n      <h2 style=\"font-size: 18px; font-weight: bold; margin-top: 20px;\">10) Manage</h2>\n      <p>The tenth and last step in Produce in Fig. 2 (10) (green rectangle) occurs after defining the order in the\n        asset’s composition. The execution of the application can occur manually, where each step of the program is\n        controlled and initiated by the user.</p>\n      <p>Furthermore, there is automatic execution, where the program is configured to operate autonomously, without\n        direct user intervention. Actions are performed according to a set of predefined instructions or rules.</p>\n    </div>\n  </div>\n</body>",
+        "width": 30,
+        "height": 15,
+        "format": "<body>\n  <div\n    style=\"font-family: Arial, sans-serif; color: #333; width: 100%; margin: auto; padding: 0 15px; box-sizing: border-box;\">\n\n    <div style=\"font-size: 1rem; line-height: 1.6; text-align: justify;\">\n      <p>Our proposal of the Produce part of the PnPr architecture is presented in Fig.. At the top, in the green\n        rectangle with dashed line, are the (5) steps of Produce, which can be interpreted from left to right:\n        communicate (6), select (7), analyze (8), compose (9) and manage (10). At the bottom of the green rectangle with\n        dashed line in Fig., the number of steps is associated with their specific functions in the PnPr architecture,\n        maintaining the same numbering.</p>\n    </div>\n    \n    <img src=\"https://raw.githubusercontent.com/pontarolli/pnpr/master/figures/20250128_0744.svg\"\n         alt=\"Figure 2 - PnPr Architecture\"\n         style=\"max-width: 100%; height: auto; border: 1px solid #ccc; box-sizing: border-box; margin-bottom: 20px; display: block;\">\n\n\n  </div>\n</body>",
         "storeOutMessages": true,
         "fwdInMessages": true,
         "resendOnRefresh": true,
         "templateScope": "local",
         "className": "",
-        "x": 600,
+        "x": 640,
         "y": 320,
         "wires": [
             []
@@ -4168,8 +4245,8 @@
         "tooltip": "",
         "group": "6c18571ee6f9aaa1",
         "order": 14,
-        "width": 5,
-        "height": 1,
+        "width": 0,
+        "height": 0,
         "passthru": true,
         "outs": "all",
         "topic": "topic",
@@ -4194,8 +4271,8 @@
         "g": "2ef32a666a076212",
         "group": "6c18571ee6f9aaa1",
         "order": 15,
-        "width": 2,
-        "height": 1,
+        "width": 0,
+        "height": 0,
         "name": "",
         "label": " ",
         "format": "{{msg.payload}}",
@@ -4663,8 +4740,8 @@
         "g": "5438809457a42244",
         "name": "TQ01 loop control test nats",
         "info": "",
-        "x": 670,
-        "y": 4920,
+        "x": 690,
+        "y": 5280,
         "wires": []
     },
     {
@@ -4675,8 +4752,8 @@
         "name": "",
         "group": "e2420902282f4f2e",
         "order": 1,
-        "width": 12,
-        "height": 6,
+        "width": 0,
+        "height": 0,
         "label": "SetPoint x Process variable",
         "chartType": "line",
         "legend": "true",
@@ -4706,8 +4783,8 @@
         "outputs": 1,
         "useDifferentColor": false,
         "className": "",
-        "x": 1280,
-        "y": 5340,
+        "x": 1300,
+        "y": 5700,
         "wires": [
             [
                 "f63ca460d7690195"
@@ -4732,8 +4809,8 @@
         "topic": "",
         "payload": "",
         "payloadType": "date",
-        "x": 740,
-        "y": 5380,
+        "x": 760,
+        "y": 5740,
         "wires": [
             [
                 "4fd7663e631829dd",
@@ -4751,8 +4828,8 @@
         "name": "",
         "group": "e2420902282f4f2e",
         "order": 2,
-        "width": 12,
-        "height": 6,
+        "width": 0,
+        "height": 0,
         "label": "Manipulated variable x Error",
         "chartType": "line",
         "legend": "true",
@@ -4782,8 +4859,8 @@
         "outputs": 1,
         "useDifferentColor": false,
         "className": "",
-        "x": 1280,
-        "y": 5420,
+        "x": 1300,
+        "y": 5780,
         "wires": [
             []
         ]
@@ -4794,7 +4871,7 @@
         "z": "13170589.bf6fd2",
         "g": "63f2a9cb575789f8",
         "name": "",
-        "group": "98c8642c17167e6f",
+        "group": "f9a47ab46475c0cf",
         "order": 2,
         "width": 0,
         "height": 0,
@@ -4809,8 +4886,8 @@
         "payloadType": "bool",
         "topic": "topic",
         "topicType": "msg",
-        "x": 650,
-        "y": 4980,
+        "x": 670,
+        "y": 5340,
         "wires": [
             [
                 "c13cf6ad06a4b0f2"
@@ -4823,7 +4900,7 @@
         "z": "13170589.bf6fd2",
         "g": "63f2a9cb575789f8",
         "name": "",
-        "group": "98c8642c17167e6f",
+        "group": "f9a47ab46475c0cf",
         "order": 3,
         "width": 0,
         "height": 0,
@@ -4838,8 +4915,8 @@
         "payloadType": "bool",
         "topic": "topic",
         "topicType": "msg",
-        "x": 650,
-        "y": 5020,
+        "x": 670,
+        "y": 5380,
         "wires": [
             [
                 "32628e63c595fc1d",
@@ -4855,7 +4932,7 @@
         "name": "",
         "label": "",
         "tooltip": "",
-        "group": "98c8642c17167e6f",
+        "group": "f9a47ab46475c0cf",
         "order": 1,
         "width": 0,
         "height": 0,
@@ -4874,8 +4951,8 @@
         "offcolor": "red",
         "animate": false,
         "className": "switch",
-        "x": 1490,
-        "y": 5080,
+        "x": 1510,
+        "y": 5440,
         "wires": [
             []
         ]
@@ -4893,8 +4970,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 900,
-        "y": 5020,
+        "x": 920,
+        "y": 5380,
         "wires": [
             [
                 "a15120aa5cde889d"
@@ -4914,8 +4991,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 890,
-        "y": 4980,
+        "x": 910,
+        "y": 5340,
         "wires": [
             [
                 "d12db9e945c761d6"
@@ -4936,8 +5013,8 @@
         "targetType": "msg",
         "statusVal": "",
         "statusType": "auto",
-        "x": 1450,
-        "y": 5020,
+        "x": 1470,
+        "y": 5380,
         "wires": []
     },
     {
@@ -4958,8 +5035,8 @@
         "once": false,
         "onceDelay": "",
         "topic": "",
-        "x": 710,
-        "y": 5080,
+        "x": 730,
+        "y": 5440,
         "wires": [
             [
                 "fa992894d136ff1d"
@@ -4979,8 +5056,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 900,
-        "y": 5080,
+        "x": 920,
+        "y": 5440,
         "wires": [
             [
                 "2bf2ecc6e612809e"
@@ -5001,8 +5078,8 @@
         "targetType": "msg",
         "statusVal": "",
         "statusType": "auto",
-        "x": 1460,
-        "y": 4980,
+        "x": 1480,
+        "y": 5340,
         "wires": []
     },
     {
@@ -5014,8 +5091,8 @@
         "name": "write mv 0",
         "topic": "p2_daq.aas",
         "options": "{}",
-        "x": 1150,
-        "y": 4980,
+        "x": 1170,
+        "y": 5340,
         "wires": [
             [
                 "9001f6e9244b5a13"
@@ -5906,7 +5983,7 @@
         "label": "",
         "tooltip": "",
         "group": "98c8642c17167e6f",
-        "order": 4,
+        "order": 1,
         "width": 0,
         "height": 0,
         "passthru": true,
@@ -5916,8 +5993,8 @@
         "sendOnBlur": true,
         "className": "",
         "topicType": "msg",
-        "x": 700,
-        "y": 5200,
+        "x": 720,
+        "y": 5560,
         "wires": [
             []
         ]
@@ -5935,8 +6012,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1040,
-        "y": 5340,
+        "x": 1060,
+        "y": 5700,
         "wires": [
             [
                 "bda792243fc2043e"
@@ -5956,8 +6033,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1020,
-        "y": 5380,
+        "x": 1040,
+        "y": 5740,
         "wires": [
             [
                 "bda792243fc2043e"
@@ -5977,8 +6054,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1020,
-        "y": 5420,
+        "x": 1040,
+        "y": 5780,
         "wires": [
             [
                 "6fbe26b937051670"
@@ -5998,24 +6075,13 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1030,
-        "y": 5460,
+        "x": 1050,
+        "y": 5820,
         "wires": [
             [
                 "6fbe26b937051670"
             ]
         ]
-    },
-    {
-        "id": "79219bfd94fcba84",
-        "type": "comment",
-        "z": "13170589.bf6fd2",
-        "g": "e76b2f922b1b4495",
-        "name": "Tasks",
-        "info": "[x] controlar a malha pit118.\n[ ] exportar os pontos do grafico csv ou txt.\n[x] reuniao professor sobre interface.\n[ ] deixar o valor de setar constante igual seno e triangulo\n[x] remover kp ti do manage\n[ ] deixar exibidor do aas com caixa cinza fixa igual json\n[ ] help do serviço igual do labview colocar no documentation.\n[ ] gerador de função separado\n[ ] help na aplicação tambem breve descrição introdutoria\n[ ] no compose abstrair as sequencias e deixar o compose ja pronto.\n[ ] visualizador aas\n[ ] colocar umas imagens do aas melhores para vender a IDE\n\n",
-        "x": 1170,
-        "y": 320,
-        "wires": []
     },
     {
         "id": "0c5f63caebe0103a",
@@ -6056,8 +6122,7 @@
         "y": 4500,
         "wires": [
             [
-                "4d2f5ed1f3da9d6f",
-                "017899f51ff5d8bd"
+                "4d2f5ed1f3da9d6f"
             ]
         ]
     },
@@ -6123,272 +6188,6 @@
             [
                 "0517d72a28c841ed"
             ]
-        ]
-    },
-    {
-        "id": "017899f51ff5d8bd",
-        "type": "debug",
-        "z": "13170589.bf6fd2",
-        "g": "8e30bfbd13c6747d",
-        "name": "debug 65",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "false",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 1320,
-        "y": 4560,
-        "wires": []
-    },
-    {
-        "id": "641bb0623f281ed0",
-        "type": "function",
-        "z": "13170589.bf6fd2",
-        "g": "5438809457a42244",
-        "name": "Read (registry)",
-        "func": "// Obter o objeto registry do escopo global\nvar registry = global.get(\"registry\") || {};\n\nmsg.action = `${registry.sensor.service.name}.${registry.sensor.service.action}`\n\n// msg.payload = {\n//     idShortAsset: registry.sensor.aas.idShortAsset || '',\n//     idShortSubmodel: registry.sensor.aas.idShortSubmodel || '',\n//     idShortSubmodelElement: registry.sensor.aas.idShortSubmodelElement || '',\n//     format: registry.sensor.aas.format || ''\n// };\n\nreturn msg;",
-        "outputs": 1,
-        "timeout": "",
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 920,
-        "y": 5560,
-        "wires": [
-            [
-                "bd2a889ef6af5fef"
-            ]
-        ]
-    },
-    {
-        "id": "bd2a889ef6af5fef",
-        "type": "moleculer-call",
-        "z": "13170589.bf6fd2",
-        "g": "5438809457a42244",
-        "broker": "15fdc347.1238cd",
-        "name": "",
-        "topic": "",
-        "options": "{}",
-        "x": 1070,
-        "y": 5560,
-        "wires": [
-            [
-                "c269358c1233d359",
-                "a9ec9180fbe55ac3"
-            ]
-        ]
-    },
-    {
-        "id": "c269358c1233d359",
-        "type": "ui_template",
-        "z": "13170589.bf6fd2",
-        "g": "5438809457a42244",
-        "group": "98c8642c17167e6f",
-        "name": "AAS sensor (tree) ",
-        "order": 5,
-        "width": 0,
-        "height": 0,
-        "format": "<!DOCTYPE html>\n<html>\n\n<head>\n    <meta charset=\"utf-8\">\n    <link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/jstree/3.2.1/themes/default/style.min.css\" />\n    <style>\n        /* Estilo da caixa da árvore */\n        #tree-container-sensors {\n            border: 1px solid #ccc;\n            border-radius: 8px;\n            background-color: #f5f5f5;\n            padding: 15px;\n            max-width: 500px;\n            margin: 0 auto;\n        }\n\n        /* Estilo do título */\n        #tree-title-sensors {\n            text-align: center;\n            margin-bottom: 10px;\n            color: #333;\n            font-family: Arial, sans-serif;\n        }\n    </style>\n</head>\n\n<body>\n    <script src=\"https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.1/jquery.min.js\"></script>\n    <script src=\"https://cdnjs.cloudflare.com/ajax/libs/jstree/3.2.1/jstree.min.js\"></script>\n\n    <!-- Título fixo -->\n    <h3 id=\"tree-title-sensors\">AAS Sensors (tree)</h3>\n\n    <!-- Contêiner exclusivo para a árvore -->\n    <div id=\"tree-container-sensors\">\n        <div id=\"jstree-sensors\"></div>\n    </div>\n\n    <script>\n        // Função para converter JSON em formato jsTree\n        function jsonToJsTreeObject(json_data_object, final_array = []) {\n            Object.keys(json_data_object).forEach(function (data) {\n                if (Array.isArray(json_data_object[data]) || json_data_object[data] instanceof Object) {\n                    final_array.push({\n                        text: `${data}`,\n                        children: jsonToJsTreeObject(json_data_object[data], [])\n                    });\n                } else {\n                    final_array.push({\n                        text: `${data}`,\n                        children: [{ text: `${json_data_object[data]}` }]\n                    });\n                }\n            });\n            return final_array;\n        }\n\n        (function (scope) {\n            scope.$watch('msg', function (msg) {\n                if (msg && msg.payload) {\n                    // Atualizar apenas o conteúdo da árvore\n                    const treeDiv = $(\"#jstree-sensors\");\n\n                    // Destruir a instância existente antes de recriar\n                    if ($.jstree.reference(treeDiv)) {\n                        treeDiv.jstree(\"destroy\");\n                    }\n\n                    // Inicializar jsTree\n                    treeDiv.jstree({\n                        'core': {\n                            'data': jsonToJsTreeObject(msg.payload)\n                        }\n                    });\n\n                    // Evento para capturar seleção de nós\n                    treeDiv.on(\"changed.jstree\", function (e, data) {\n                        const path = treeDiv.jstree(true).get_path(data.node, \"/\");\n                        console.log(path);\n                        msg.output = path;\n                        scope.send(msg);\n                    });\n                }\n            });\n        })(scope);\n    </script>\n</body>\n\n</html>\n",
-        "storeOutMessages": false,
-        "fwdInMessages": false,
-        "resendOnRefresh": false,
-        "templateScope": "local",
-        "className": "AAS sensor (tree) ",
-        "x": 1250,
-        "y": 5540,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "a9ec9180fbe55ac3",
-        "type": "ui_template",
-        "z": "13170589.bf6fd2",
-        "g": "5438809457a42244",
-        "group": "98c8642c17167e6f",
-        "name": "AAS sensor (json)",
-        "order": 6,
-        "width": 0,
-        "height": 0,
-        "format": "<!DOCTYPE html>\n<html lang=\"pt-BR\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>JSON Display</title>\n    <style>\n        .json-container {\n            margin: 10px 0;\n        }\n\n        .json-title {\n            font-family: Arial, sans-serif;\n            font-size: 18px;\n            margin-bottom: 10px;\n            color: #333;\n            text-align: center;\n        }\n\n        .json-display {\n            white-space: pre-wrap;\n            max-height: 300px;\n            font-family: monospace;\n            padding: 0;\n            border: none;\n            border-radius: 4px;\n            background-color: transparent;\n        }\n\n        .json-display pre {\n            background-color: transparent !important;\n            border: none;\n            padding: 0;\n            margin: 0;\n        }\n    </style>\n</head>\n<body>\n    <div class=\"json-container\">\n        <!-- Título -->\n        <h3 class=\"json-title\">AAS Sensor (json)</h3>\n        \n        <!-- Exibição do JSON -->\n        <div class=\"json-display\">\n            <pre>{{msg.payload | json}}</pre>\n        </div>\n    </div>\n</body>\n</html>\n",
-        "storeOutMessages": true,
-        "fwdInMessages": true,
-        "resendOnRefresh": true,
-        "templateScope": "local",
-        "className": "AAS sensor (json) ",
-        "x": 1250,
-        "y": 5580,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "ab2df149c5cf3e66",
-        "type": "function",
-        "z": "13170589.bf6fd2",
-        "g": "5438809457a42244",
-        "name": "Read (registry)",
-        "func": "// Obter o objeto registry do escopo global\nvar registry = global.get(\"registry\") || {};\n\nmsg.action = `${registry.controller.service.name}.${registry.controller.service.action}`\n\n// msg.payload = {\n//     idShortAsset: registry.controller.aas.idShortAsset || '',\n//     idShortSubmodel: registry.controller.aas.idShortSubmodel || '',\n//     idShortSubmodelElement: registry.controller.aas.idShortSubmodelElement || '',\n//     format: registry.controller.aas.format || ''\n// };\n\nreturn msg;",
-        "outputs": 1,
-        "timeout": "",
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 920,
-        "y": 5640,
-        "wires": [
-            [
-                "f50ce91cc3e28873"
-            ]
-        ]
-    },
-    {
-        "id": "f50ce91cc3e28873",
-        "type": "moleculer-call",
-        "z": "13170589.bf6fd2",
-        "g": "5438809457a42244",
-        "broker": "15fdc347.1238cd",
-        "name": "",
-        "topic": "",
-        "options": "{}",
-        "x": 1070,
-        "y": 5640,
-        "wires": [
-            [
-                "c77f44f94f19fb09",
-                "d3601885a58e8154"
-            ]
-        ]
-    },
-    {
-        "id": "c77f44f94f19fb09",
-        "type": "ui_template",
-        "z": "13170589.bf6fd2",
-        "g": "5438809457a42244",
-        "group": "98c8642c17167e6f",
-        "name": "AAS controller (tree)",
-        "order": 7,
-        "width": 0,
-        "height": 0,
-        "format": "<!DOCTYPE html>\n<html>\n\n<head>\n    <meta charset=\"utf-8\">\n    <link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/jstree/3.2.1/themes/default/style.min.css\" />\n    <style>\n        /* Estilo da caixa da árvore */\n        #tree-container-controllers {\n            border: 1px solid #ccc;\n            border-radius: 8px;\n            background-color: #f5f5f5;\n            padding: 15px;\n            max-width: 500px;\n            margin: 0 auto;\n        }\n\n        /* Estilo do título */\n        #tree-title-controllers {\n            text-align: center;\n            margin-bottom: 10px;\n            color: #333;\n            font-family: Arial, sans-serif;\n        }\n    </style>\n</head>\n\n<body>\n    <script src=\"https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.1/jquery.min.js\"></script>\n    <script src=\"https://cdnjs.cloudflare.com/ajax/libs/jstree/3.2.1/jstree.min.js\"></script>\n\n    <!-- Título fixo -->\n    <h3 id=\"tree-title-controllers\">AAS Controller (tree)</h3>\n\n    <!-- Contêiner exclusivo para a árvore -->\n    <div id=\"tree-container-controllers\">\n        <div id=\"jstree-controllers\"></div>\n    </div>\n\n    <script>\n        function jsonToJsTreeObject(json_data_object, final_array = []) {\n            Object.keys(json_data_object).forEach(function (data) {\n                let value = json_data_object[data];\n\n                if (value === null) {\n                    final_array.push({\n                        text: `${data}: null`\n                    });\n                } else if (Array.isArray(value) || value instanceof Object) {\n                    final_array.push({\n                        text: `${data}`,\n                        children: jsonToJsTreeObject(value, [])\n                    });\n                } else {\n                    final_array.push({\n                        text: `${data}: ${value}`\n                    });\n                }\n            });\n            return final_array;\n        }\n\n        (function (scope) {\n            scope.$watch('msg', function (msg) {\n                if (msg && msg.payload) {\n                    const treeDiv = $(\"#jstree-controllers\");\n\n                    // Destruir a instância existente antes de recriar\n                    if ($.jstree.reference(treeDiv)) {\n                        treeDiv.jstree(\"destroy\");\n                    }\n\n                    // Inicializar jsTree\n                    treeDiv.jstree({\n                        'core': {\n                            'data': jsonToJsTreeObject(msg.payload)\n                        }\n                    });\n\n                    // Evento para capturar seleção de nós\n                    treeDiv.on(\"changed.jstree\", function (e, data) {\n                        const path = treeDiv.jstree(true).get_path(data.node, \"/\");\n                        console.log(path);\n                        msg.output = path;\n                        scope.send(msg);\n                    });\n                }\n            });\n        })(scope);\n    </script>\n</body>\n\n</html>",
-        "storeOutMessages": false,
-        "fwdInMessages": false,
-        "resendOnRefresh": false,
-        "templateScope": "local",
-        "className": "",
-        "x": 1260,
-        "y": 5620,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "d3601885a58e8154",
-        "type": "ui_template",
-        "z": "13170589.bf6fd2",
-        "g": "5438809457a42244",
-        "group": "98c8642c17167e6f",
-        "name": "AAS controller (json)",
-        "order": 8,
-        "width": 0,
-        "height": 0,
-        "format": "<div class=\"json-container\">\n    <!-- Título -->\n    <h3 class=\"json-title\" style=\"text-align: center; margin-bottom: 10px; color: #333;\">AAS Controller (json)</h3>\n    \n    <!-- Exibição do JSON -->\n    <div class=\"json-display\">\n        <pre>{{msg.payload | json}}</pre>\n    </div>\n</div>\n\n<style>\n    .json-container {\n        margin: 10px 0;\n    }\n\n    .json-title {\n        font-family: Arial, sans-serif;\n        font-size: 18px;\n        margin-bottom: 10px;\n        color: #333;\n    }\n\n    .json-display {\n        white-space: pre-wrap;\n        /* Permite a quebra de linha para JSON formatado */\n        max-height: 300px;\n        /* Ajuste a altura máxima, se desejado */\n        background-color: #f5f5f5;\n        /* Cor de fundo para destacar o JSON */\n        font-family: monospace;\n        padding: 10px;\n        border: 1px solid #ccc;\n        border-radius: 4px;\n    }\n</style>\n\n",
-        "storeOutMessages": true,
-        "fwdInMessages": true,
-        "resendOnRefresh": true,
-        "templateScope": "local",
-        "className": "AAS controller (json)",
-        "x": 1260,
-        "y": 5660,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "893f65a534b0a4ce",
-        "type": "function",
-        "z": "13170589.bf6fd2",
-        "g": "5438809457a42244",
-        "name": "Read (registry)",
-        "func": "// Obter o objeto registry do escopo global\nvar registry = global.get(\"registry\") || {};\n\nmsg.action = `${registry.actuator.service.name}.${registry.actuator.service.action}`\n\n// msg.payload = {\n//     idShortAsset: registry.actuator.aas.idShortAsset || '',\n//     idShortSubmodel: registry.actuator.aas.idShortSubmodel || '',\n//     idShortSubmodelElement: registry.actuator.aas.idShortSubmodelElement || '',\n//     format: registry.actuator.aas.format || ''\n// };\n\nreturn msg;",
-        "outputs": 1,
-        "timeout": "",
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 920,
-        "y": 5720,
-        "wires": [
-            [
-                "50a62718df0f46b2"
-            ]
-        ]
-    },
-    {
-        "id": "50a62718df0f46b2",
-        "type": "moleculer-call",
-        "z": "13170589.bf6fd2",
-        "g": "5438809457a42244",
-        "broker": "15fdc347.1238cd",
-        "name": "",
-        "topic": "",
-        "options": "{}",
-        "x": 1070,
-        "y": 5720,
-        "wires": [
-            [
-                "276269a611bd7ef1",
-                "59119bd360af1214"
-            ]
-        ]
-    },
-    {
-        "id": "276269a611bd7ef1",
-        "type": "ui_template",
-        "z": "13170589.bf6fd2",
-        "g": "5438809457a42244",
-        "group": "98c8642c17167e6f",
-        "name": "AAS actuator (tree)",
-        "order": 9,
-        "width": 0,
-        "height": 0,
-        "format": "<!DOCTYPE html>\n<html>\n\n<head>\n    <meta charset=\"utf-8\">\n    <link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/jstree/3.2.1/themes/default/style.min.css\" />\n    <style>\n        /* Estilo da caixa da árvore */\n        #tree-container-actuators {\n            border: 1px solid #ccc;\n            border-radius: 8px;\n            background-color: #f5f5f5;\n            padding: 15px;\n            max-width: 500px;\n            margin: 0 auto;\n        }\n\n        /* Estilo do título */\n        #tree-title-actuators {\n            text-align: center;\n            margin-bottom: 10px;\n            color: #333;\n            font-family: Arial, sans-serif;\n        }\n    </style>\n</head>\n\n<body>\n    <script src=\"https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.1/jquery.min.js\"></script>\n    <script src=\"https://cdnjs.cloudflare.com/ajax/libs/jstree/3.2.1/jstree.min.js\"></script>\n\n    <!-- Título fixo -->\n    <h3 id=\"tree-title-actuators\">AAS Tree Actuator</h3>\n\n    <!-- Contêiner exclusivo para a árvore -->\n    <div id=\"tree-container-actuators\">\n        <div id=\"jstree-actuators\"></div>\n    </div>\n\n    <script>\n        // Função para converter JSON em formato jsTree\n        function jsonToJsTreeObject(json_data_object, final_array = []) {\n            Object.keys(json_data_object).forEach(function (data) {\n                if (Array.isArray(json_data_object[data]) || json_data_object[data] instanceof Object) {\n                    final_array.push({\n                        text: `${data}`,\n                        children: jsonToJsTreeObject(json_data_object[data], [])\n                    });\n                } else {\n                    final_array.push({\n                        text: `${data}`,\n                        children: [{ text: `${json_data_object[data]}` }]\n                    });\n                }\n            });\n            return final_array;\n        }\n\n        (function (scope) {\n            scope.$watch('msg', function (msg) {\n                if (msg && msg.payload) {\n                    // Atualizar apenas o conteúdo da árvore\n                    const treeDiv = document.getElementById(\"jstree-actuators\");\n                    treeDiv.innerHTML = \"\"; // Limpar o conteúdo da árvore\n\n                    // Inicializar jsTree\n                    $(`#jstree-actuators`).jstree({\n                        'core': {\n                            'data': jsonToJsTreeObject(msg.payload)\n                        }\n                    });\n\n                    // Evento para capturar seleção de nós\n                    $(`#jstree-actuators`).on(\"changed.jstree\", function (e, data) {\n                        const path = $(`#jstree-actuators`).jstree(true).get_path(data.node, \"/\");\n                        console.log(path);\n                        msg.output = path;\n                        scope.send(msg);\n                    });\n                }\n            });\n        })(scope);\n    </script>\n</body>\n\n</html>",
-        "storeOutMessages": false,
-        "fwdInMessages": false,
-        "resendOnRefresh": false,
-        "templateScope": "local",
-        "className": "",
-        "x": 1250,
-        "y": 5700,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "59119bd360af1214",
-        "type": "ui_template",
-        "z": "13170589.bf6fd2",
-        "g": "5438809457a42244",
-        "group": "98c8642c17167e6f",
-        "name": "AAS actuator (json)",
-        "order": 10,
-        "width": 0,
-        "height": 0,
-        "format": "<div class=\"json-container\">\n    <!-- Título -->\n    <h3 class=\"json-title\" style=\"text-align: center; margin-bottom: 10px; color: #333;\">AAS json actuators</h3>\n    \n    <!-- Exibição do JSON -->\n    <div class=\"json-display\">\n        <pre>{{msg.payload | json}}</pre>\n    </div>\n</div>\n\n<style>\n    .json-container {\n        margin: 10px 0;\n    }\n\n    .json-title {\n        font-family: Arial, sans-serif;\n        font-size: 18px;\n        margin-bottom: 10px;\n        color: #333;\n    }\n\n    .json-display {\n        white-space: pre-wrap;\n        /* Permite a quebra de linha para JSON formatado */\n        max-height: 300px;\n        /* Ajuste a altura máxima, se desejado */\n        background-color: #f5f5f5;\n        /* Cor de fundo para destacar o JSON */\n        font-family: monospace;\n        padding: 10px;\n        border: 1px solid #ccc;\n        border-radius: 4px;\n    }\n</style>\n\n",
-        "storeOutMessages": true,
-        "fwdInMessages": true,
-        "resendOnRefresh": true,
-        "templateScope": "local",
-        "className": "AAS json actuator",
-        "x": 1250,
-        "y": 5740,
-        "wires": [
-            []
         ]
     },
     {
@@ -6666,8 +6465,8 @@
         "group": "3eba48a555cae7f0",
         "name": "Sensor (registry)",
         "order": 6,
-        "width": 8,
-        "height": 10,
+        "width": 0,
+        "height": 0,
         "format": "<div class=\"json-container\">\n    <!-- Título -->\n    <h3 class=\"json-title\" style=\"text-align: center; margin-bottom: 10px; color: #333;\">sensor (registry)</h3>\n\n    <!-- Exibição do JSON -->\n    <div class=\"json-display\">\n        <pre>{{msg.payload | json}}</pre>\n    </div>\n</div>\n\n<style>\n    .json-display {\n        white-space: pre-wrap;\n        /* Permite a quebra de linha para JSON formatado */\n        max-height: 300px;\n        /* Ajuste a altura máxima, se desejado */\n        background-color: #f5f5f5;\n        /* Cor de fundo para destacar o JSON */\n        font-family: monospace;\n    }\n\n    .json-title {\n        font-family: Arial, sans-serif;\n        font-size: 1.2em;\n        font-weight: bold;\n    }\n</style>",
         "storeOutMessages": true,
         "fwdInMessages": true,
@@ -6772,7 +6571,7 @@
         "z": "13170589.bf6fd2",
         "g": "71e4dc030fdd0dc2",
         "group": "4e61cd5c3f54f1fb",
-        "order": 2,
+        "order": 3,
         "width": 0,
         "height": 0,
         "name": "Asset",
@@ -6963,9 +6762,9 @@
         "g": "e370f64265ef27d0",
         "group": "6c18571ee6f9aaa1",
         "name": "Controllers (registry)",
-        "order": 17,
-        "width": 8,
-        "height": 11,
+        "order": 16,
+        "width": 0,
+        "height": 0,
         "format": "<div class=\"json-container\">\n    <!-- Título -->\n    <h3 class=\"json-title\" style=\"text-align: center; margin-bottom: 10px; color: #333;\">controller (registry)</h3>\n\n    <!-- Exibição do JSON -->\n    <div class=\"json-display\">\n        <pre>{{msg.payload | json}}</pre>\n    </div>\n</div>\n\n<style>\n    .json-display {\n        white-space: pre-wrap;\n        /* Permite a quebra de linha para JSON formatado */\n        max-height: 300px;\n        /* Ajuste a altura máxima, se desejado */\n        background-color: #f5f5f5;\n        /* Cor de fundo para destacar o JSON */\n        font-family: monospace;\n    }\n\n    .json-title {\n        font-family: Arial, sans-serif;\n        font-size: 1.2em;\n        font-weight: bold;\n    }\n</style>",
         "storeOutMessages": true,
         "fwdInMessages": true,
@@ -7200,8 +6999,8 @@
         "group": "0af94ec6d9c4f5c0",
         "name": "Actuators (registry)",
         "order": 6,
-        "width": 8,
-        "height": 10,
+        "width": 0,
+        "height": 0,
         "format": "<div class=\"json-container\">\n    <!-- Título -->\n    <h3 class=\"json-title\" style=\"text-align: center; margin-bottom: 10px; color: #333;\">actuators (registry)</h3>\n\n    <!-- Exibição do JSON -->\n    <div class=\"json-display\">\n        <pre>{{msg.payload | json}}</pre>\n    </div>\n</div>\n\n<style>\n    .json-display {\n        white-space: pre-wrap;\n        /* Permite a quebra de linha para JSON formatado */\n        max-height: 300px;\n        /* Ajuste a altura máxima, se desejado */\n        background-color: #f5f5f5;\n        /* Cor de fundo para destacar o JSON */\n        font-family: monospace;\n    }\n\n    .json-title {\n        font-family: Arial, sans-serif;\n        font-size: 1.2em;\n        font-weight: bold;\n    }\n</style>",
         "storeOutMessages": true,
         "fwdInMessages": true,
@@ -7454,38 +7253,6 @@
         ]
     },
     {
-        "id": "22a43b2920bd1767",
-        "type": "inject",
-        "z": "13170589.bf6fd2",
-        "g": "5438809457a42244",
-        "name": "",
-        "props": [
-            {
-                "p": "payload"
-            },
-            {
-                "p": "topic",
-                "vt": "str"
-            }
-        ],
-        "repeat": "20",
-        "crontab": "",
-        "once": true,
-        "onceDelay": "5",
-        "topic": "",
-        "payload": "",
-        "payloadType": "date",
-        "x": 710,
-        "y": 5640,
-        "wires": [
-            [
-                "641bb0623f281ed0",
-                "ab2df149c5cf3e66",
-                "893f65a534b0a4ce"
-            ]
-        ]
-    },
-    {
         "id": "99501685f523d926",
         "type": "link in",
         "z": "13170589.bf6fd2",
@@ -7602,8 +7369,8 @@
         "group": "6c18571ee6f9aaa1",
         "name": "functionGenerator (registry)",
         "order": 17,
-        "width": 8,
-        "height": 11,
+        "width": 0,
+        "height": 0,
         "format": "<div class=\"json-container\">\n    <!-- Título -->\n    <h3 class=\"json-title\" style=\"text-align: center; margin-bottom: 10px; color: #333;\">functionGenerator (registry)</h3>\n\n    <!-- Exibição do JSON -->\n    <div class=\"json-display\">\n        <pre>{{msg.payload | json}}</pre>\n    </div>\n</div>\n\n<style>\n    .json-display {\n        white-space: pre-wrap;\n        /* Permite a quebra de linha para JSON formatado */\n        max-height: 300px;\n        /* Ajuste a altura máxima, se desejado */\n        background-color: #f5f5f5;\n        /* Cor de fundo para destacar o JSON */\n        font-family: monospace;\n    }\n\n    .json-title {\n        font-family: Arial, sans-serif;\n        font-size: 1.2em;\n        font-weight: bold;\n    }\n</style>",
         "storeOutMessages": true,
         "fwdInMessages": true,
@@ -7629,8 +7396,8 @@
         "complete": "false",
         "statusVal": "",
         "statusType": "auto",
-        "x": 1510,
-        "y": 5340,
+        "x": 1530,
+        "y": 5700,
         "wires": []
     },
     {
@@ -7659,14 +7426,14 @@
         "z": "13170589.bf6fd2",
         "g": "8e30bfbd13c6747d",
         "name": "Gera valores randômicos",
-        "func": "msg.payload = {\n  op1: Math.floor(Math.random() * 100),\n  op2: 11 + Math.floor(Math.random() * 10),\n  op3: Math.floor(Math.random() * 50),\n  op4: Math.floor(Math.random() * 75),\n  op5: Math.floor(Math.random() * 30),\n  op6: Math.floor(Math.random() * 20),\n  op7: Math.floor(Math.random() * 99),\n  op8: Math.floor(Math.random() * 80),\n  op9: Math.floor(Math.random() * 60),\n  op10: Math.floor(Math.random() * 40),\n  sensor: global.get(\"registry.sensor.aas.idShortAsset\"),\n  controller: global.get(\"registry.controller.aas.idShortAsset\"),\n  actuator: global.get(\"registry.actuator.aas.idShortAsset\")\n};\n\n\nreturn msg;\n\n\n\n\n",
+        "func": "msg.payload = {\n  op1: Math.floor(Math.random() * 100),\n  op2: 11 + Math.floor(Math.random() * 10),\n  op3: Math.floor(Math.random() * 50),\n  op4: Math.floor(Math.random() * 75),\n  op5: Math.floor(Math.random() * 30),\n  op6: Math.floor(Math.random() * 20),\n  op7: Math.floor(Math.random() * 99),\n  op8: Math.floor(Math.random() * 80),\n  op9: Math.floor(Math.random() * 60),\n  op10: Math.floor(Math.random() * 40),\n  sensor: global.get(\"registry.sensor.aas.idShortAsset\"),\n  sensorValue: global.get(\"registry.sensor.aas.value\"),\n  controller: global.get(\"registry.controller.aas.idShortAsset\"),\n  actuator: global.get(\"registry.actuator.aas.idShortAsset\")\n};\n\n\nreturn msg;\n\n\n\n\n",
         "outputs": 1,
         "timeout": "",
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 860,
+        "x": 830,
         "y": 4600,
         "wires": [
             [
@@ -7680,17 +7447,17 @@
         "z": "13170589.bf6fd2",
         "g": "8e30bfbd13c6747d",
         "group": "c1eeeb76da41b819",
-        "name": "SVG Centralizado com 10 Opções",
+        "name": "Applications",
         "order": 1,
         "width": 0,
         "height": 0,
-        "format": "<div ng-app=\"\">\n  <label>Selec:\n    <select id=\"selectShape\" ng-model=\"selectedShape\">\n      <option ng-repeat=\"i in [].constructor(10) track by $index\" value=\"op{{$index+1}}\">\n        {{$index === 0 ? 'Process control' :\n          $index === 1 ? 'Batch Process' :\n          $index === 2 ? 'Historian' :\n          $index === 3 ? 'Example' :\n          'Opção ' + ($index + 1)}}\n      </option>\n    </select>\n  </label>\n\n  <svg width=\"400\" height=\"250\">\n    <defs>\n      <marker id=\"arrow\" markerWidth=\"10\" markerHeight=\"7\" refX=\"10\" refY=\"3.5\"\n              orient=\"auto\" markerUnits=\"strokeWidth\">\n        <polygon points=\"0 0, 10 3.5, 0 7\" fill=\"#000\" />\n      </marker>\n    </defs>\n\n    <g ng-show=\"selectedShape === 'op1'\">\n      <rect x=\"25\" y=\"100\" width=\"100\" height=\"60\" fill=\"#ADD8E6\" stroke=\"#000\"/>\n      <text x=\"75\" y=\"135\" text-anchor=\"middle\" font-size=\"14\">{{msg.payload.sensor}}</text>\n\n      <rect x=\"150\" y=\"100\" width=\"100\" height=\"60\" fill=\"#90EE90\" stroke=\"#000\"/>\n      <text x=\"200\" y=\"135\" text-anchor=\"middle\" font-size=\"14\">{{msg.payload.controller}}</text>\n\n      <rect x=\"275\" y=\"100\" width=\"100\" height=\"60\" fill=\"#FFB6C1\" stroke=\"#000\"/>\n      <text x=\"325\" y=\"135\" text-anchor=\"middle\" font-size=\"14\">{{msg.payload.actuator}}</text>\n\n      <line x1=\"125\" y1=\"130\" x2=\"150\" y2=\"130\" stroke=\"#000\" stroke-width=\"2\" marker-end=\"url(#arrow)\"/>\n      <line x1=\"250\" y1=\"130\" x2=\"275\" y2=\"130\" stroke=\"#000\" stroke-width=\"2\" marker-end=\"url(#arrow)\"/>\n      <line x1=\"325\" y1=\"160\" x2=\"325\" y2=\"220\" stroke=\"#000\" stroke-width=\"2\" />\n      <line x1=\"325\" y1=\"220\" x2=\"75\" y2=\"220\" stroke=\"#000\" stroke-width=\"2\" />\n      <line x1=\"75\" y1=\"220\" x2=\"75\" y2=\"160\" stroke=\"#000\" stroke-width=\"2\" marker-end=\"url(#arrow)\"/>\n    </g>\n\n    <g ng-show=\"selectedShape === 'op2'\">\n      <defs>\n        <marker id=\"arrowhead\" markerWidth=\"10\" markerHeight=\"7\" refX=\"10\" refY=\"3.5\" orient=\"auto\">\n          <polygon points=\"0 0, 10 3.5, 0 7\" fill=\"#000\"/>\n        </marker>\n      </defs>\n      <circle cx=\"140\" cy=\"125\" r=\"30\" fill=\"#8F8\" stroke=\"#000\"/>\n      <circle cx=\"260\" cy=\"125\" r=\"30\" fill=\"#8F8\" stroke=\"#000\"/>\n      <line x1=\"170\" y1=\"125\" x2=\"230\" y2=\"125\" stroke=\"#000\" stroke-width=\"2\" marker-end=\"url(#arrowhead)\" />\n      <text x=\"200\" y=\"110\" font-size=\"16\" text-anchor=\"middle\">{{msg.payload.sensor || 0}}</text>\n    </g>\n\n    <g ng-show=\"selectedShape === 'op3'\">\n      <ellipse cx=\"200\" cy=\"125\" rx=\"60\" ry=\"40\" fill=\"#88F\" stroke=\"#000\"/>\n      <text x=\"200\" y=\"125\" font-size=\"20\" text-anchor=\"middle\" alignment-baseline=\"middle\">\n        {{msg.payload.op3 || 0}}\n      </text>\n    </g>\n\n    <g ng-show=\"selectedShape === 'op4'\">\n      <polygon points=\"200,70 250,180 150,180\" fill=\"#FA8\" stroke=\"#000\"/>\n      <text x=\"200\" y=\"130\" font-size=\"20\" text-anchor=\"middle\" alignment-baseline=\"middle\">\n        {{msg.payload.op4 || 0}}\n      </text>\n    </g>\n\n    <g ng-show=\"selectedShape === 'op5'\">\n      <polygon points=\"200,85 215,120 255,120 225,140 240,175 200,155 160,175 175,140 145,120 185,120\" fill=\"#AAF\" stroke=\"#000\"/>\n      <text x=\"200\" y=\"135\" font-size=\"20\" text-anchor=\"middle\" alignment-baseline=\"middle\">\n        {{msg.payload.op5 || 0}}\n      </text>\n    </g>\n\n    <g ng-show=\"selectedShape === 'op6'\">\n      <line x1=\"150\" y1=\"125\" x2=\"250\" y2=\"125\" stroke=\"#000\" stroke-width=\"4\"/>\n      <text x=\"200\" y=\"110\" font-size=\"20\" text-anchor=\"middle\">\n        {{msg.payload.op6 || 0}}\n      </text>\n    </g>\n\n    <g ng-show=\"selectedShape === 'op7'\">\n      <polygon points=\"200,70 250,125 200,180 150,125\" fill=\"#AFF\" stroke=\"#000\"/>\n      <text x=\"200\" y=\"130\" font-size=\"20\" text-anchor=\"middle\" alignment-baseline=\"middle\">\n        {{msg.payload.op7 || 0}}\n      </text>\n    </g>\n\n    <g ng-show=\"selectedShape === 'op8'\">\n      <path d=\"M160 160 A40 40 0 0 1 240 160\" fill=\"none\" stroke=\"#000\" stroke-width=\"4\"/>\n      <text x=\"200\" y=\"150\" font-size=\"20\" text-anchor=\"middle\">\n        {{msg.payload.op8 || 0}}\n      </text>\n    </g>\n\n    <g ng-show=\"selectedShape === 'op9'\">\n      <rect x=\"150\" y=\"90\" width=\"100\" height=\"100\" fill=\"#F8F\" stroke=\"#000\" stroke-width=\"6\"/>\n      <text x=\"200\" y=\"140\" font-size=\"20\" text-anchor=\"middle\" alignment-baseline=\"middle\">\n        {{msg.payload.op9 || 0}}\n      </text>\n    </g>\n\n    <g ng-show=\"selectedShape === 'op10'\">\n      <circle cx=\"200\" cy=\"125\" r=\"40\" fill=\"#8FF\" stroke=\"#000\" stroke-width=\"2\"/>\n      <circle cx=\"200\" cy=\"125\" r=\"30\" fill=\"none\" stroke=\"#444\" stroke-dasharray=\"5,5\"/>\n      <text x=\"200\" y=\"125\" font-size=\"20\" text-anchor=\"middle\" alignment-baseline=\"middle\">\n        {{msg.payload.op10 || 0}}\n      </text>\n    </g>\n  </svg>\n</div>\n",
+        "format": "<div ng-app=\"\" style=\"max-width: 1200px; margin: auto; padding: 15px; font-family: Arial, sans-serif; color: #333;\">\n  <label>Selec:\n    <select id=\"selectShape\" ng-model=\"selectedShape\" ng-init=\"selectedShape='op1'\">\n      <option ng-repeat=\"i in [].constructor(3) track by $index\" value=\"op{{$index+1}}\">\n        {{$index === 0 ? 'Process control' :\n          $index === 1 ? 'Batch Process' :\n          $index === 2 ? 'Historian' :\n          'Opção ' + ($index + 1)}}\n      </option>\n    </select>\n  </label>\n\n  <svg viewBox=\"0 0 400 250\" width=\"100%\" height=\"auto\" preserveAspectRatio=\"xMidYMid meet\">\n    <defs>\n      <marker id=\"arrow\" markerWidth=\"10\" markerHeight=\"7\" refX=\"10\" refY=\"3.5\" orient=\"auto\" markerUnits=\"strokeWidth\">\n        <polygon points=\"0 0, 10 3.5, 0 7\" fill=\"#000\" />\n      </marker>\n      <marker id=\"arrowhead\" markerWidth=\"10\" markerHeight=\"7\" refX=\"10\" refY=\"3.5\" orient=\"auto\">\n        <polygon points=\"0 0, 10 3.5, 0 7\" fill=\"#000\" />\n      </marker>\n    </defs>\n\n    <!-- Opção 1: Process Control -->\n    <g ng-show=\"selectedShape === 'op1'\">\n      <rect x=\"25\" y=\"100\" width=\"100\" height=\"60\" fill=\"#ADD8E6\" stroke=\"#000\" />\n      <text x=\"75\" y=\"135\" text-anchor=\"middle\" font-size=\"14\">{{msg.payload.sensor || 'Sensor'}}</text>\n\n      <rect x=\"150\" y=\"100\" width=\"100\" height=\"60\" fill=\"#90EE90\" stroke=\"#000\" />\n      <text x=\"200\" y=\"135\" text-anchor=\"middle\" font-size=\"14\">{{msg.payload.controller || 'Controller'}}</text>\n\n      <rect x=\"275\" y=\"100\" width=\"100\" height=\"60\" fill=\"#FFB6C1\" stroke=\"#000\" />\n      <text x=\"325\" y=\"135\" text-anchor=\"middle\" font-size=\"14\">{{msg.payload.actuator || 'Actuator'}}</text>\n\n      <line x1=\"125\" y1=\"130\" x2=\"150\" y2=\"130\" stroke=\"#000\" stroke-width=\"2\" marker-end=\"url(#arrow)\" />\n      <line x1=\"250\" y1=\"130\" x2=\"275\" y2=\"130\" stroke=\"#000\" stroke-width=\"2\" marker-end=\"url(#arrow)\" />\n      <line x1=\"325\" y1=\"160\" x2=\"325\" y2=\"220\" stroke=\"#000\" stroke-width=\"2\" />\n      <line x1=\"325\" y1=\"220\" x2=\"75\" y2=\"220\" stroke=\"#000\" stroke-width=\"2\" />\n      <line x1=\"75\" y1=\"220\" x2=\"75\" y2=\"160\" stroke=\"#000\" stroke-width=\"2\" marker-end=\"url(#arrow)\" />\n    </g>\n\n    <!-- Opção 2: Batch Process -->\n    <g ng-show=\"selectedShape === 'op2'\">\n      <circle cx=\"75\" cy=\"125\" r=\"30\" fill=\"#FDD835\" stroke=\"#000\" />\n      <text x=\"75\" y=\"130\" text-anchor=\"middle\" font-size=\"12\">{{msg.payload.sensor || 'Dosagem'}}</text>\n\n      <circle cx=\"200\" cy=\"125\" r=\"30\" fill=\"#4FC3F7\" stroke=\"#000\" />\n      <text x=\"200\" y=\"130\" text-anchor=\"middle\" font-size=\"12\">{{msg.payload.actuator || 'Mistura'}}</text>\n\n      <circle cx=\"325\" cy=\"125\" r=\"30\" fill=\"#A5D6A7\" stroke=\"#000\" />\n      <text x=\"325\" y=\"130\" text-anchor=\"middle\" font-size=\"12\">{{msg.payload.final || 'Final'}}</text>\n\n      <line x1=\"105\" y1=\"125\" x2=\"170\" y2=\"125\" stroke=\"#000\" stroke-width=\"2\" marker-end=\"url(#arrowhead)\" />\n      <line x1=\"230\" y1=\"125\" x2=\"295\" y2=\"125\" stroke=\"#000\" stroke-width=\"2\" marker-end=\"url(#arrowhead)\" />\n    </g>\n\n    <!-- Opção 3: Historian -->\n    <g ng-show=\"selectedShape === 'op3'\">\n      <rect x=\"25\" y=\"100\" width=\"100\" height=\"60\" fill=\"#FFD700\" stroke=\"#000\" />\n      <text x=\"75\" y=\"135\" text-anchor=\"middle\" font-size=\"14\">{{msg.payload.sensor || 'Sensor'}}</text>\n\n      <rect x=\"150\" y=\"100\" width=\"100\" height=\"60\" fill=\"#6495ED\" stroke=\"#000\" />\n      <text x=\"200\" y=\"135\" text-anchor=\"middle\" font-size=\"14\">Historian</text>\n\n      <rect x=\"275\" y=\"100\" width=\"100\" height=\"60\" fill=\"#98FB98\" stroke=\"#000\" />\n      <text x=\"325\" y=\"135\" text-anchor=\"middle\" font-size=\"14\">{{msg.payload.sensorValue || 'HMI'}}</text>\n\n      <line x1=\"125\" y1=\"130\" x2=\"150\" y2=\"130\" stroke=\"#000\" stroke-width=\"2\" marker-end=\"url(#arrow)\" />\n      <line x1=\"250\" y1=\"130\" x2=\"275\" y2=\"130\" stroke=\"#000\" stroke-width=\"2\" marker-end=\"url(#arrow)\" />\n    </g>\n  </svg>\n</div>",
         "storeOutMessages": true,
         "fwdInMessages": true,
         "resendOnRefresh": true,
         "templateScope": "local",
         "className": "",
-        "x": 1200,
+        "x": 1030,
         "y": 4600,
         "wires": [
             []
@@ -7702,8 +7469,8 @@
         "z": "13170589.bf6fd2",
         "g": "9ad4336ed6209db9",
         "name": "",
-        "group": "b928f494baf90348",
-        "order": 0,
+        "group": "c1eeeb76da41b819",
+        "order": 3,
         "width": 0,
         "height": 0,
         "passthru": false,
@@ -7717,8 +7484,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 1790,
-        "y": 4480,
+        "x": 690,
+        "y": 4720,
         "wires": [
             [
                 "7cc943e5f69b5aa2",
@@ -7739,8 +7506,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 2070,
-        "y": 4480,
+        "x": 970,
+        "y": 4720,
         "wires": [
             []
         ]
@@ -7751,8 +7518,8 @@
         "z": "13170589.bf6fd2",
         "g": "9ad4336ed6209db9",
         "name": "",
-        "group": "b928f494baf90348",
-        "order": 0,
+        "group": "c1eeeb76da41b819",
+        "order": 4,
         "width": 0,
         "height": 0,
         "passthru": false,
@@ -7766,8 +7533,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 1810,
-        "y": 4580,
+        "x": 710,
+        "y": 4800,
         "wires": [
             [
                 "650cc2be253d9125",
@@ -7788,8 +7555,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 2070,
-        "y": 4580,
+        "x": 970,
+        "y": 4800,
         "wires": [
             []
         ]
@@ -7800,8 +7567,8 @@
         "z": "13170589.bf6fd2",
         "g": "9ad4336ed6209db9",
         "name": "",
-        "group": "b928f494baf90348",
-        "order": 0,
+        "group": "c1eeeb76da41b819",
+        "order": 5,
         "width": 0,
         "height": 0,
         "passthru": false,
@@ -7815,8 +7582,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 1790,
-        "y": 4660,
+        "x": 690,
+        "y": 4880,
         "wires": [
             [
                 "3af48236db2042f4",
@@ -7837,8 +7604,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 2070,
-        "y": 4660,
+        "x": 970,
+        "y": 4880,
         "wires": [
             []
         ]
@@ -7849,8 +7616,8 @@
         "z": "13170589.bf6fd2",
         "g": "9ad4336ed6209db9",
         "name": "",
-        "group": "b928f494baf90348",
-        "order": 0,
+        "group": "c1eeeb76da41b819",
+        "order": 6,
         "width": 0,
         "height": 0,
         "passthru": false,
@@ -7864,8 +7631,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 1820,
-        "y": 4740,
+        "x": 720,
+        "y": 4960,
         "wires": [
             [
                 "06672febd3cab359",
@@ -7886,8 +7653,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 2070,
-        "y": 4740,
+        "x": 970,
+        "y": 4960,
         "wires": [
             []
         ]
@@ -7902,8 +7669,8 @@
         "links": [
             "99501685f523d926"
         ],
-        "x": 1975,
-        "y": 4440,
+        "x": 875,
+        "y": 4760,
         "wires": []
     },
     {
@@ -7916,8 +7683,8 @@
         "links": [
             "99501685f523d926"
         ],
-        "x": 1975,
-        "y": 4520,
+        "x": 875,
+        "y": 4840,
         "wires": []
     },
     {
@@ -7930,8 +7697,8 @@
         "links": [
             "99501685f523d926"
         ],
-        "x": 1965,
-        "y": 4620,
+        "x": 875,
+        "y": 4920,
         "wires": []
     },
     {
@@ -7944,8 +7711,8 @@
         "links": [
             "99501685f523d926"
         ],
-        "x": 1975,
-        "y": 4700,
+        "x": 875,
+        "y": 5000,
         "wires": []
     },
     {
@@ -7970,31 +7737,367 @@
         "topic": "",
         "payload": "",
         "payloadType": "date",
-        "x": 1820,
-        "y": 4380,
+        "x": 710,
+        "y": 4680,
         "wires": [
             [
-                "048e89a7313b8243",
                 "7cc943e5f69b5aa2"
             ]
         ]
     },
     {
-        "id": "048e89a7313b8243",
-        "type": "debug",
+        "id": "4d78c555ea251c40",
+        "type": "ui_text",
         "z": "13170589.bf6fd2",
         "g": "9ad4336ed6209db9",
-        "name": "debug 66",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "false",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 2040,
-        "y": 4400,
+        "group": "c1eeeb76da41b819",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "Default process control assets",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 990,
+        "y": 4680,
         "wires": []
+    },
+    {
+        "id": "ee520e86be8fa9e4",
+        "type": "ui_template",
+        "z": "13170589.bf6fd2",
+        "g": "f67e7e89a114723f",
+        "group": "45109acd4e17e7d9",
+        "name": "Description communicate",
+        "order": 1,
+        "width": 30,
+        "height": 5,
+        "format": "<body>\n  <div\n    style=\"font-family: Arial, sans-serif; color: #333; width: 100%; padding: 0 15px; box-sizing: border-box; display: flex; align-items: flex-start; gap: 20px;\">\n\n    <!-- Imagem à esquerda -->\n    <img src=\"https://raw.githubusercontent.com/pontarolli/pnpr/master/figures/communicate.svg\"\n         alt=\"Figure 2 - PnPr Architecture\"\n         style=\"max-width: 40%; height: auto; border: 1px solid #ccc; box-sizing: border-box;\">\n\n    <!-- Texto à direita -->\n    <div style=\"font-size: 1rem; line-height: 1.6; text-align: justify; flex: 1;\">\n      <p>A total integrated networked environment is one of the I4.0 pillars. Creating I4.0 applications in the Produce\n        part requires a standardized and automatic communication among assets.</p>\n      <p>The sixth step in the Produce process, as depicted in Fig. (6), involves utilizing service composer software\n        compatible with the asset communication protocol and their respective information models of the PnPr\n        architecture to establish a communication channel for creating automation applications.</p>\n      <p>In our proposal, Node-RED and the 4diac IDE for IEC 61499 were chosen as the composers due to their industry\n        acceptance and communication support for our PnPr architecture (microservice, OPC UA, and HTTP).</p>\n    </div>\n\n  </div>\n</body>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 1150,
+        "y": 1080,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "26c69fe7cdb3f048",
+        "type": "ui_template",
+        "z": "13170589.bf6fd2",
+        "g": "9334aa3adb839a1f",
+        "group": "be29d35420eb4c02",
+        "name": "Description select",
+        "order": 1,
+        "width": 30,
+        "height": 6,
+        "format": "<body>\n  <div\n    style=\"font-family: Arial, sans-serif; color: #333; width: 100%; padding: 0 15px; box-sizing: border-box; display: flex; align-items: flex-start; gap: 20px;\">\n\n    <!-- Imagem à esquerda -->\n    <img src=\"https://raw.githubusercontent.com/pontarolli/pnpr/master/figures/aas.svg\"\n         alt=\"Figure 2 - PnPr Architecture\"\n         style=\"max-width: 40%; height: auto; border: 1px solid #ccc; box-sizing: border-box;\">\n\n    <!-- Texto à direita -->\n    <div style=\"font-size: 1rem; line-height: 1.6; text-align: justify; flex: 1;\">\n      <p>The seventh step in the Produce process, as illustrated in Fig. (7) (green rectangle), involves application\n        composers issuing a scanner request to detect all assets present in the network.</p>\n      <p>Upon receiving a response, which includes their properties, capacities, and other structured information\n        according to the information model (AAS), the data can be organized into an Asset Library, as depicted in Fig.\n        (7).</p>\n      <p>In our proposal, we use the Node Package Manager (NPM) and 4diac for encapsulating and distributing\n        custom-created libraries and/or blocks within the Node-RED and IEC61499 development environments.</p>\n    </div>\n\n  </div>\n</body>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 950,
+        "y": 1420,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "21d143549c9300b2",
+        "type": "ui_template",
+        "z": "13170589.bf6fd2",
+        "g": "10a4928a39108988",
+        "group": "2d655f8a0ec04e64",
+        "name": "Description analyze",
+        "order": 1,
+        "width": 30,
+        "height": 6,
+        "format": "<body>\n  <div style=\"font-family: Arial, sans-serif; color: #333; width: 100%; padding: 0 15px; box-sizing: border-box; display: flex; align-items: flex-start; gap: 20px;\">\n    \n    <!-- Imagem à esquerda -->\n    <img src=\"https://raw.githubusercontent.com/pontarolli/pnpr/master/figures/analyze.svg\"\n         alt=\"Figure 2 - PnPr Architecture\"\n         style=\"max-width: 40%; height: auto; border: 1px solid #ccc; box-sizing: border-box;\">\n\n    <!-- Texto à direita -->\n    <div style=\"font-size: 1rem; line-height: 1.6; text-align: justify; flex: 1;\">\n      <p>In the eighth step in Produce in Fig. (8) (green rectangle), the compositor analyzes the identity,\n        functionalities, and requirements of the asset(s).</p>\n      <p>The asset manager data structure in Fig. (8) (E.g., Motor) supports the representation of the physical and\n        the information world, allowing the change of asset parameters, as well as the creation of asset simulation\n        models for enabling the creation of Digital Twins (DT).</p>\n    </div>\n\n  </div>\n</body>\n",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 1510,
+        "y": 2140,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "53094b7afbb6be12",
+        "type": "ui_template",
+        "z": "13170589.bf6fd2",
+        "g": "8e30bfbd13c6747d",
+        "group": "8c60dcc13bef6894",
+        "name": "Description compose",
+        "order": 1,
+        "width": 30,
+        "height": 6,
+        "format": "<body>\n  <div\n    style=\"font-family: Arial, sans-serif; color: #333; width: 100%; padding: 0 15px; box-sizing: border-box; display: flex; align-items: flex-start; gap: 20px;\">\n\n    <!-- Imagem à esquerda -->\n    <img src=\"https://raw.githubusercontent.com/pontarolli/pnpr/master/figures/orchestration.svg\"\n         alt=\"Figure 2 - PnPr Architecture\"\n         style=\"max-width: 40%; height: auto; border: 1px solid #ccc; box-sizing: border-box;\">\n\n    <!-- Texto à direita -->\n    <div style=\"font-size: 1rem; line-height: 1.6; text-align: justify; flex: 1;\">\n      <p>Industrial service-oriented applications mostly rely on the orchestration procedure. The ninth step in Produce\n        in Fig. (9) (green rectangle) is related to the composition of applications in the PnPr architecture.</p>\n      <p>As in an \"orchestra\", the composer defines a sequence in which the assets will relate, composing the required\n        application in Fig. (9) (Asset Composer).</p>\n    </div>\n\n  </div>\n</body>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 1500,
+        "y": 4160,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "b737cc241e46fcfc",
+        "type": "ui_template",
+        "z": "13170589.bf6fd2",
+        "g": "5438809457a42244",
+        "group": "b8620c0b3080bcf8",
+        "name": "Description manage",
+        "order": 1,
+        "width": 30,
+        "height": 6,
+        "format": "<body>\n  <div\n    style=\"font-family: Arial, sans-serif; color: #333; width: 100%; padding: 0 15px; box-sizing: border-box; display: flex; align-items: flex-start; gap: 20px;\">\n\n    <!-- Imagem à esquerda -->\n    <img src=\"https://raw.githubusercontent.com/pontarolli/pnpr/master/figures/manage.svg\"\n         alt=\"Figure 2 - PnPr Architecture\"\n         style=\"max-width: 40%; height: auto; border: 1px solid #ccc; box-sizing: border-box;\">\n\n    <!-- Texto à direita -->\n    <div style=\"font-size: 1rem; line-height: 1.6; text-align: justify; flex: 1;\">\n      <p>The tenth and last step in Produce in Fig. (10) (green rectangle) occurs after defining the order in the\n        asset’s composition. The execution of the application can occur manually, where each step of the program is\n        controlled and initiated by the user.</p>\n      <p>Furthermore, there is automatic execution, where the program is configured to operate autonomously, without\n        direct user intervention. Actions are performed according to a set of predefined instructions or rules.</p>\n    </div>\n\n  </div>\n</body>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 1500,
+        "y": 5260,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "79219bfd94fcba84",
+        "type": "comment",
+        "z": "13170589.bf6fd2",
+        "name": "Tasks",
+        "info": "Ricardo\n[ ] help do serviço igual do labview colocar no documentation.\n[ ] visualizador aas? ver no analyzer\n[ ] organizar o codigo inteiro do node-red com largura max como referencia do comunicate para printscren 100% fullhd colocar latex.\n\nMatheus\n[ ] exportar os pontos do grafico json > txt pois será usado pgf plots https://www.overleaf.com/learn/latex/Pgfplots_package.\n[ ] deixar o valor de setar constante igual seno e triangulo ao inves de slidebar.\n[ ] gerador de função separado do controle no dashboard e node-red apesar do parametro estar interligado.\n\nConcluidas\n[x] controlar a malha pit118.\n[x] reuniao professor sobre interface.\n[x] remover kp ti do manage\n[x] help na aplicação tambem breve descrição introdutoria\n[x] deixar exibidor do aas tree com caixa cinza fixa igual json\n[x] remover aas json\n[x] deixar todos os templates com tamanho 30 de lagura e 100% automatico\n[x] no compose abstrair as sequencias e deixar o compose ja pronto, apenas controle, restante exemplo.\n[x] colocar umas imagens do aas melhores para vender a IDE\n",
+        "x": 570,
+        "y": 240,
+        "wires": []
+    },
+    {
+        "id": "641bb0623f281ed0",
+        "type": "function",
+        "z": "13170589.bf6fd2",
+        "g": "10a4928a39108988",
+        "name": "Read (registry)",
+        "func": "// Obter o objeto registry do escopo global\nvar registry = global.get(\"registry\") || {};\n\nmsg.action = `${registry.sensor.service.name}.${registry.sensor.service.action}`\n\n// msg.payload = {\n//     idShortAsset: registry.sensor.aas.idShortAsset || '',\n//     idShortSubmodel: registry.sensor.aas.idShortSubmodel || '',\n//     idShortSubmodelElement: registry.sensor.aas.idShortSubmodelElement || '',\n//     format: registry.sensor.aas.format || ''\n// };\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1820,
+        "y": 2240,
+        "wires": [
+            [
+                "bd2a889ef6af5fef"
+            ]
+        ]
+    },
+    {
+        "id": "bd2a889ef6af5fef",
+        "type": "moleculer-call",
+        "z": "13170589.bf6fd2",
+        "g": "10a4928a39108988",
+        "broker": "15fdc347.1238cd",
+        "name": "",
+        "topic": "",
+        "options": "{}",
+        "x": 1970,
+        "y": 2240,
+        "wires": [
+            [
+                "c269358c1233d359"
+            ]
+        ]
+    },
+    {
+        "id": "c269358c1233d359",
+        "type": "ui_template",
+        "z": "13170589.bf6fd2",
+        "g": "10a4928a39108988",
+        "group": "3eba48a555cae7f0",
+        "name": "AAS sensor (tree) ",
+        "order": 7,
+        "width": 30,
+        "height": 5,
+        "format": "<!DOCTYPE html>\n<html>\n\n<head>\n    <meta charset=\"utf-8\">\n    <link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/jstree/3.2.1/themes/default/style.min.css\" />\n    <style>\n        /* Estilo da caixa da árvore */\n        #tree-container-sensors {\n            border: 1px solid #ccc;\n            border-radius: 8px;\n            background-color: #f5f5f5;\n            padding: 15px;\n            /* Largura máxima removida */\n            width: 100%;\n            box-sizing: border-box;\n        }\n\n        /* Estilo do título */\n        #tree-title-sensors {\n            text-align: center;\n            margin-bottom: 10px;\n            color: #333;\n            font-family: Arial, sans-serif;\n        }\n\n        body {\n            margin: 0;\n            padding: 0;\n        }\n    </style>\n</head>\n\n<body>\n    <script src=\"https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.1/jquery.min.js\"></script>\n    <script src=\"https://cdnjs.cloudflare.com/ajax/libs/jstree/3.2.1/jstree.min.js\"></script>\n\n    <!-- Título fixo -->\n    <h3 id=\"tree-title-sensors\">AAS Sensors (tree)</h3>\n\n    <!-- Contêiner exclusivo para a árvore -->\n    <div id=\"tree-container-sensors\">\n        <div id=\"jstree-sensors\"></div>\n    </div>\n\n    <script>\n        function jsonToJsTreeObject(json_data_object, final_array = []) {\n            Object.keys(json_data_object).forEach(function (data) {\n                if (Array.isArray(json_data_object[data]) || json_data_object[data] instanceof Object) {\n                    final_array.push({\n                        text: `${data}`,\n                        children: jsonToJsTreeObject(json_data_object[data], [])\n                    });\n                } else {\n                    final_array.push({\n                        text: `${data}`,\n                        children: [{ text: `${json_data_object[data]}` }]\n                    });\n                }\n            });\n            return final_array;\n        }\n\n        (function (scope) {\n            scope.$watch('msg', function (msg) {\n                if (msg && msg.payload) {\n                    const treeDiv = $(\"#jstree-sensors\");\n\n                    if ($.jstree.reference(treeDiv)) {\n                        treeDiv.jstree(\"destroy\");\n                    }\n\n                    treeDiv.jstree({\n                        'core': {\n                            'data': jsonToJsTreeObject(msg.payload)\n                        }\n                    });\n\n                    treeDiv.on(\"changed.jstree\", function (e, data) {\n                        const path = treeDiv.jstree(true).get_path(data.node, \"/\");\n                        console.log(path);\n                        msg.output = path;\n                        scope.send(msg);\n                    });\n                }\n            });\n        })(scope);\n    </script>\n</body>\n\n</html>",
+        "storeOutMessages": false,
+        "fwdInMessages": false,
+        "resendOnRefresh": false,
+        "templateScope": "local",
+        "className": "AAS sensor (tree) ",
+        "x": 2130,
+        "y": 2240,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "ab2df149c5cf3e66",
+        "type": "function",
+        "z": "13170589.bf6fd2",
+        "g": "10a4928a39108988",
+        "name": "Read (registry)",
+        "func": "// Obter o objeto registry do escopo global\nvar registry = global.get(\"registry\") || {};\n\nmsg.action = `${registry.controller.service.name}.${registry.controller.service.action}`\n\n// msg.payload = {\n//     idShortAsset: registry.controller.aas.idShortAsset || '',\n//     idShortSubmodel: registry.controller.aas.idShortSubmodel || '',\n//     idShortSubmodelElement: registry.controller.aas.idShortSubmodelElement || '',\n//     format: registry.controller.aas.format || ''\n// };\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1820,
+        "y": 2280,
+        "wires": [
+            [
+                "f50ce91cc3e28873"
+            ]
+        ]
+    },
+    {
+        "id": "f50ce91cc3e28873",
+        "type": "moleculer-call",
+        "z": "13170589.bf6fd2",
+        "g": "10a4928a39108988",
+        "broker": "15fdc347.1238cd",
+        "name": "",
+        "topic": "",
+        "options": "{}",
+        "x": 1970,
+        "y": 2280,
+        "wires": [
+            [
+                "c77f44f94f19fb09"
+            ]
+        ]
+    },
+    {
+        "id": "c77f44f94f19fb09",
+        "type": "ui_template",
+        "z": "13170589.bf6fd2",
+        "g": "10a4928a39108988",
+        "group": "6c18571ee6f9aaa1",
+        "name": "AAS controller (tree)",
+        "order": 18,
+        "width": 30,
+        "height": 5,
+        "format": "<!DOCTYPE html>\n<html>\n\n<head>\n    <meta charset=\"utf-8\">\n    <link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/jstree/3.2.1/themes/default/style.min.css\" />\n    <style>\n        /* Estilo da caixa da árvore */\n        #tree-container-controllers {\n            border: 1px solid #ccc;\n            border-radius: 8px;\n            background-color: #f5f5f5;\n            padding: 15px;\n            width: 100%;\n            box-sizing: border-box;\n        }\n\n        /* Estilo do título */\n        #tree-title-controllers {\n            text-align: center;\n            margin-bottom: 10px;\n            color: #333;\n            font-family: Arial, sans-serif;\n        }\n\n        body {\n            margin: 0;\n            padding: 0;\n        }\n    </style>\n</head>\n\n<body>\n    <script src=\"https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.1/jquery.min.js\"></script>\n    <script src=\"https://cdnjs.cloudflare.com/ajax/libs/jstree/3.2.1/jstree.min.js\"></script>\n\n    <!-- Título fixo -->\n    <h3 id=\"tree-title-controllers\">AAS Controller (tree)</h3>\n\n    <!-- Contêiner exclusivo para a árvore -->\n    <div id=\"tree-container-controllers\">\n        <div id=\"jstree-controllers\"></div>\n    </div>\n\n    <script>\n        function jsonToJsTreeObject(json_data_object, final_array = []) {\n            Object.keys(json_data_object).forEach(function (data) {\n                let value = json_data_object[data];\n\n                if (value === null) {\n                    final_array.push({\n                        text: `${data}: null`\n                    });\n                } else if (Array.isArray(value) || value instanceof Object) {\n                    final_array.push({\n                        text: `${data}`,\n                        children: jsonToJsTreeObject(value, [])\n                    });\n                } else {\n                    final_array.push({\n                        text: `${data}: ${value}`\n                    });\n                }\n            });\n            return final_array;\n        }\n\n        (function (scope) {\n            scope.$watch('msg', function (msg) {\n                if (msg && msg.payload) {\n                    const treeDiv = $(\"#jstree-controllers\");\n\n                    if ($.jstree.reference(treeDiv)) {\n                        treeDiv.jstree(\"destroy\");\n                    }\n\n                    treeDiv.jstree({\n                        'core': {\n                            'data': jsonToJsTreeObject(msg.payload)\n                        }\n                    });\n\n                    treeDiv.on(\"changed.jstree\", function (e, data) {\n                        const path = treeDiv.jstree(true).get_path(data.node, \"/\");\n                        console.log(path);\n                        msg.output = path;\n                        scope.send(msg);\n                    });\n                }\n            });\n        })(scope);\n    </script>\n</body>\n\n</html>",
+        "storeOutMessages": false,
+        "fwdInMessages": false,
+        "resendOnRefresh": false,
+        "templateScope": "local",
+        "className": "",
+        "x": 2140,
+        "y": 2280,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "893f65a534b0a4ce",
+        "type": "function",
+        "z": "13170589.bf6fd2",
+        "g": "10a4928a39108988",
+        "name": "Read (registry)",
+        "func": "// Obter o objeto registry do escopo global\nvar registry = global.get(\"registry\") || {};\n\nmsg.action = `${registry.actuator.service.name}.${registry.actuator.service.action}`\n\n// msg.payload = {\n//     idShortAsset: registry.actuator.aas.idShortAsset || '',\n//     idShortSubmodel: registry.actuator.aas.idShortSubmodel || '',\n//     idShortSubmodelElement: registry.actuator.aas.idShortSubmodelElement || '',\n//     format: registry.actuator.aas.format || ''\n// };\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1820,
+        "y": 2320,
+        "wires": [
+            [
+                "50a62718df0f46b2"
+            ]
+        ]
+    },
+    {
+        "id": "50a62718df0f46b2",
+        "type": "moleculer-call",
+        "z": "13170589.bf6fd2",
+        "g": "10a4928a39108988",
+        "broker": "15fdc347.1238cd",
+        "name": "",
+        "topic": "",
+        "options": "{}",
+        "x": 1970,
+        "y": 2320,
+        "wires": [
+            [
+                "276269a611bd7ef1"
+            ]
+        ]
+    },
+    {
+        "id": "276269a611bd7ef1",
+        "type": "ui_template",
+        "z": "13170589.bf6fd2",
+        "g": "10a4928a39108988",
+        "group": "0af94ec6d9c4f5c0",
+        "name": "AAS actuator (tree)",
+        "order": 7,
+        "width": 30,
+        "height": 5,
+        "format": "<!DOCTYPE html>\n<html>\n\n<head>\n    <meta charset=\"utf-8\">\n    <link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/jstree/3.2.1/themes/default/style.min.css\" />\n    <style>\n        /* Estilo da caixa da árvore */\n        #tree-container-actuators {\n            border: 1px solid #ccc;\n            border-radius: 8px;\n            background-color: #f5f5f5;\n            padding: 15px;\n            width: 100%;\n            box-sizing: border-box;\n        }\n\n        /* Estilo do título */\n        #tree-title-actuators {\n            text-align: center;\n            margin-bottom: 10px;\n            color: #333;\n            font-family: Arial, sans-serif;\n        }\n\n        body {\n            margin: 0;\n            padding: 0;\n        }\n    </style>\n</head>\n\n<body>\n    <script src=\"https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.1/jquery.min.js\"></script>\n    <script src=\"https://cdnjs.cloudflare.com/ajax/libs/jstree/3.2.1/jstree.min.js\"></script>\n\n    <!-- Título fixo -->\n    <h3 id=\"tree-title-actuators\">AAS actuator (tree)</h3>\n\n    <!-- Contêiner exclusivo para a árvore -->\n    <div id=\"tree-container-actuators\">\n        <div id=\"jstree-actuators\"></div>\n    </div>\n\n    <script>\n        // Função para converter JSON em formato jsTree\n        function jsonToJsTreeObject(json_data_object, final_array = []) {\n            Object.keys(json_data_object).forEach(function (data) {\n                if (Array.isArray(json_data_object[data]) || json_data_object[data] instanceof Object) {\n                    final_array.push({\n                        text: `${data}`,\n                        children: jsonToJsTreeObject(json_data_object[data], [])\n                    });\n                } else {\n                    final_array.push({\n                        text: `${data}`,\n                        children: [{ text: `${json_data_object[data]}` }]\n                    });\n                }\n            });\n            return final_array;\n        }\n\n        (function (scope) {\n            scope.$watch('msg', function (msg) {\n                if (msg && msg.payload) {\n                    const treeDiv = document.getElementById(\"jstree-actuators\");\n                    treeDiv.innerHTML = \"\"; // Limpar o conteúdo da árvore\n\n                    // Inicializar jsTree\n                    $('#jstree-actuators').jstree({\n                        'core': {\n                            'data': jsonToJsTreeObject(msg.payload)\n                        }\n                    });\n\n                    // Evento para capturar seleção de nós\n                    $('#jstree-actuators').on(\"changed.jstree\", function (e, data) {\n                        const path = $('#jstree-actuators').jstree(true).get_path(data.node, \"/\");\n                        console.log(path);\n                        msg.output = path;\n                        scope.send(msg);\n                    });\n                }\n            });\n        })(scope);\n    </script>\n</body>\n\n</html>",
+        "storeOutMessages": false,
+        "fwdInMessages": false,
+        "resendOnRefresh": false,
+        "templateScope": "local",
+        "className": "",
+        "x": 2130,
+        "y": 2320,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "22a43b2920bd1767",
+        "type": "inject",
+        "z": "13170589.bf6fd2",
+        "g": "10a4928a39108988",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "20",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "5",
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 1610,
+        "y": 2280,
+        "wires": [
+            [
+                "641bb0623f281ed0",
+                "ab2df149c5cf3e66",
+                "893f65a534b0a4ce"
+            ]
+        ]
     },
     {
         "id": "1e2b4ae0d8426bb5",
@@ -16160,9 +16263,7 @@
         "x": 620,
         "y": 820,
         "wires": [
-            [
-                "cad5c09fed64a9b5"
-            ]
+            []
         ]
     },
     {
@@ -16182,27 +16283,6 @@
             [
                 "cf96d08f43b562d8"
             ]
-        ]
-    },
-    {
-        "id": "cad5c09fed64a9b5",
-        "type": "ui_template",
-        "z": "3fc007a97f3fcca5",
-        "group": "c1eeeb76da41b819",
-        "name": "Applications",
-        "order": 1,
-        "width": 0,
-        "height": 0,
-        "format": "<div>\n  <label>\n    <input type=\"radio\" name=\"imageOption\" value=\"opt1\" onclick=\"displaySVG('1')\">\n    🔵 Option 1\n  </label><br>\n\n  <label>\n    <input type=\"radio\" name=\"imageOption\" value=\"opt2\" onclick=\"displaySVG('2')\">\n    🟢 Option 2\n  </label><br>\n\n  <label>\n    <input type=\"radio\" name=\"imageOption\" value=\"opt3\" onclick=\"displaySVG('3')\">\n    🟡 Option 3\n  </label><br>\n\n  <label>\n    <input type=\"radio\" name=\"imageOption\" value=\"opt4\" onclick=\"displaySVG('4')\">\n    🔴 Option 4\n  </label><br>\n</div>\n\n<div id=\"svgDisplay\"\n  style=\"width: 100%; height: 400px; border: 1px dashed #ccc; display: flex; align-items: center; justify-content: center;\">\n  <span style=\"color: #999;\">Image area placeholder</span>\n</div>\n\n<script>\n  function displaySVG(option) {\n    const svgDisplay = document.getElementById(\"svgDisplay\");\n\n    const svgImages = {\n      \"1\": `<svg width=\"480\" height=\"270\" viewBox=\"0 0 480 270\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" overflow=\"hidden\"><g><rect x=\"0\" y=\"0\" width=\"480\" height=\"270\" fill=\"#FFFFFF\"/><rect x=\"0\" y=\"0\" width=\"480\" height=\"270\" stroke=\"#000000\" stroke-width=\"2\" stroke-miterlimit=\"8\" fill=\"#FFFFFF\"/><path d=\"M0.0113616-0.999935 22.6818-0.742346 22.6591 1.25752-0.0113616 0.999935ZM21.3827-3.7573 29.3367 0.333333 21.2918 4.24218Z\" transform=\"matrix(1 0 0 -1 153 121.333)\"/><path d=\"M3.57869e-06-1 22.67-0.999919 22.67 1.00008-3.57869e-06 1ZM21.3367-3.99992 29.3367 0.000104987 21.3367 4.00008Z\" transform=\"matrix(1 0 0 -1 298 121)\"/><rect x=\"38\" y=\"107\" width=\"115\" height=\"28\" stroke=\"#000000\" stroke-width=\"2\" stroke-miterlimit=\"8\" fill=\"#FFFFFF\"/><text font-family=\"Arial,Arial_MSFontService,sans-serif\" font-weight=\"400\" font-size=\"16\" transform=\"translate(51.2966 128)\">0000000001</text><rect x=\"182\" y=\"107\" width=\"116\" height=\"28\" stroke=\"#000000\" stroke-width=\"2\" stroke-miterlimit=\"8\" fill=\"#FFFFFF\"/><text font-family=\"Arial,Arial_MSFontService,sans-serif\" font-weight=\"400\" font-size=\"16\" transform=\"translate(195.833 127)\">0000000002</text><rect x=\"327\" y=\"107\" width=\"115\" height=\"28\" stroke=\"#000000\" stroke-width=\"2\" stroke-miterlimit=\"8\" fill=\"#FFFFFF\"/><text font-family=\"Arial,Arial_MSFontService,sans-serif\" font-weight=\"400\" font-size=\"16\" transform=\"translate(340.37 127)\">0000000003</text><path d=\"M385.073 135 385.073 204.932 94 204.932 94 142 96 142 96 203.932 95 202.932 384.073 202.932 383.073 203.932 383.073 135ZM91 143.333 95 135.333 99 143.333Z\"/></g></svg>`,\n      \"2\": `<svg width=\"100\" height=\"100\">\n              <circle cx=\"50\" cy=\"50\" r=\"50\" fill=\"green\" />\n            </svg>`,\n      \"3\": `<svg width=\"100\" height=\"100\">\n              <polygon points=\"50,0 0,100 100,100\" fill=\"orange\" />\n            </svg>`,\n      \"4\": `<svg width=\"120\" height=\"120\" viewBox=\"0 0 120 120\">\n              <polygon fill=\"red\" points=\"60,10 73,50 115,50 80,75 93,115 60,90 27,115 40,75 5,50 47,50\"/>\n            </svg>`\n    };\n\n    svgDisplay.innerHTML = svgImages[option] || '<span style=\"color: #999;\">Image area placeholder</span>';\n  }\n</script>",
-        "storeOutMessages": true,
-        "fwdInMessages": true,
-        "resendOnRefresh": true,
-        "templateScope": "local",
-        "className": "",
-        "x": 870,
-        "y": 820,
-        "wires": [
-            []
         ]
     },
     {
@@ -16237,29 +16317,6 @@
         "finalize": "",
         "libs": [],
         "x": 580,
-        "y": 860,
-        "wires": [
-            [
-                "0efca6282c5f282a"
-            ]
-        ]
-    },
-    {
-        "id": "0efca6282c5f282a",
-        "type": "ui_template",
-        "z": "3fc007a97f3fcca5",
-        "group": "c1eeeb76da41b819",
-        "name": "Applications",
-        "order": 1,
-        "width": 0,
-        "height": 0,
-        "format": "<div>\n  <p>Valor do payload: <b>{{msg.payload}}</b></p>\n</div>\n\n<div>\n  <label>\n    <input type=\"radio\" name=\"imageOption\" value=\"opt1\" onclick=\"displaySVG('1')\">\n    🔵 Option 1\n  </label><br>\n\n  <label>\n    <input type=\"radio\" name=\"imageOption\" value=\"opt2\" onclick=\"displaySVG('2')\">\n    🟢 Option 2\n  </label><br>\n\n  <label>\n    <input type=\"radio\" name=\"imageOption\" value=\"opt3\" onclick=\"displaySVG('3')\">\n    🟡 Option 3\n  </label><br>\n\n  <label>\n    <input type=\"radio\" name=\"imageOption\" value=\"opt4\" onclick=\"displaySVG('4')\">\n    🔴 Option 4\n  </label><br>\n</div>\n\n<div id=\"svgDisplay\"\n  style=\"width: 100%; height: 400px; border: 1px dashed #ccc; display: flex; align-items: center; justify-content: center;\">\n  <span style=\"color: #999;\">Image area placeholder</span>\n</div>\n\n<script>\n  function displaySVG(option) {\n    const svgDisplay = document.getElementById(\"svgDisplay\");\n\n    const svgImages = {\n      \"1\": `<svg width=\"480\" height=\"270\" viewBox=\"0 0 480 270\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" overflow=\"hidden\"><g><rect x=\"0\" y=\"0\" width=\"480\" height=\"270\" fill=\"#FFFFFF\"/><rect x=\"0\" y=\"0\" width=\"480\" height=\"270\" stroke=\"#000000\" stroke-width=\"2\" stroke-miterlimit=\"8\" fill=\"#FFFFFF\"/><path d=\"M0.0113616-0.999935 22.6818-0.742346 22.6591 1.25752-0.0113616 0.999935ZM21.3827-3.7573 29.3367 0.333333 21.2918 4.24218Z\" transform=\"matrix(1 0 0 -1 153 121.333)\"/><path d=\"M3.57869e-06-1 22.67-0.999919 22.67 1.00008-3.57869e-06 1ZM21.3367-3.99992 29.3367 0.000104987 21.3367 4.00008Z\" transform=\"matrix(1 0 0 -1 298 121)\"/><rect x=\"38\" y=\"107\" width=\"115\" height=\"28\" stroke=\"#000000\" stroke-width=\"2\" stroke-miterlimit=\"8\" fill=\"#FFFFFF\"/><text font-family=\"Arial,Arial_MSFontService,sans-serif\" font-weight=\"400\" font-size=\"16\" transform=\"translate(51.2966 128)\">0000000001</text><rect x=\"182\" y=\"107\" width=\"116\" height=\"28\" stroke=\"#000000\" stroke-width=\"2\" stroke-miterlimit=\"8\" fill=\"#FFFFFF\"/><text font-family=\"Arial,Arial_MSFontService,sans-serif\" font-weight=\"400\" font-size=\"16\" transform=\"translate(195.833 127)\">0000000002</text><rect x=\"327\" y=\"107\" width=\"115\" height=\"28\" stroke=\"#000000\" stroke-width=\"2\" stroke-miterlimit=\"8\" fill=\"#FFFFFF\"/><text font-family=\"Arial,Arial_MSFontService,sans-serif\" font-weight=\"400\" font-size=\"16\" transform=\"translate(340.37 127)\">0000000003</text><path d=\"M385.073 135 385.073 204.932 94 204.932 94 142 96 142 96 203.932 95 202.932 384.073 202.932 383.073 203.932 383.073 135ZM91 143.333 95 135.333 99 143.333Z\"/></g></svg>`,\n      \"2\": `<svg width=\"100\" height=\"100\">\n              <circle cx=\"50\" cy=\"50\" r=\"50\" fill=\"green\" />\n            </svg>`,\n      \"3\": `<svg width=\"100\" height=\"100\">\n              <polygon points=\"50,0 0,100 100,100\" fill=\"orange\" />\n            </svg>`,\n      \"4\": `<svg width=\"120\" height=\"120\" viewBox=\"0 0 120 120\">\n              <polygon fill=\"red\" points=\"60,10 73,50 115,50 80,75 93,115 60,90 27,115 40,75 5,50 47,50\"/>\n            </svg>`\n    };\n\n    svgDisplay.innerHTML = svgImages[option] || '<span style=\"color: #999;\">Image area placeholder</span>';\n  }\n</script>",
-        "storeOutMessages": true,
-        "fwdInMessages": true,
-        "resendOnRefresh": true,
-        "templateScope": "local",
-        "className": "",
-        "x": 790,
         "y": 860,
         "wires": [
             []
@@ -16297,29 +16354,6 @@
         "finalize": "",
         "libs": [],
         "x": 580,
-        "y": 900,
-        "wires": [
-            [
-                "d3be77680f2739cf"
-            ]
-        ]
-    },
-    {
-        "id": "d3be77680f2739cf",
-        "type": "ui_template",
-        "z": "3fc007a97f3fcca5",
-        "group": "c1eeeb76da41b819",
-        "name": "Applications",
-        "order": 1,
-        "width": 0,
-        "height": 0,
-        "format": "<div>\n  <p>Valor do payload: <b>{{msg.payload}}</b></p>\n</div>\n\n<div>\n  <label>\n    <input type=\"radio\" name=\"imageOption\" value=\"opt1\" onclick=\"displaySVG('1')\">\n    🔵 Option 1\n  </label><br>\n\n  <label>\n    <input type=\"radio\" name=\"imageOption\" value=\"opt2\" onclick=\"displaySVG('2')\">\n    🟢 Option 2\n  </label><br>\n\n  <label>\n    <input type=\"radio\" name=\"imageOption\" value=\"opt3\" onclick=\"displaySVG('3')\">\n    🟡 Option 3\n  </label><br>\n\n  <label>\n    <input type=\"radio\" name=\"imageOption\" value=\"opt4\" onclick=\"displaySVG('4')\">\n    🔴 Option 4\n  </label><br>\n</div>\n\n<div id=\"svgDisplay\"\n  style=\"width: 100%; height: 400px; border: 1px dashed #ccc; display: flex; align-items: center; justify-content: center;\">\n  <span style=\"color: #999;\">Image area placeholder</span>\n</div>\n\n<script>\n  function displaySVG(option) {\n    const svgDisplay = document.getElementById(\"svgDisplay\");\n    const randomNumber = Math.floor(Math.random() * 11); // Número aleatório entre 0 e 10\n\n    const svgImages = {\n      \"1\": `<svg width=\"480\" height=\"270\" viewBox=\"0 0 480 270\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" overflow=\"hidden\"><g><rect x=\"0\" y=\"0\" width=\"480\" height=\"270\" fill=\"#FFFFFF\"/><rect x=\"0\" y=\"0\" width=\"480\" height=\"270\" stroke=\"#000000\" stroke-width=\"2\" stroke-miterlimit=\"8\" fill=\"#FFFFFF\"/><path d=\"M0.0113616-0.999935 22.6818-0.742346 22.6591 1.25752-0.0113616 0.999935ZM21.3827-3.7573 29.3367 0.333333 21.2918 4.24218Z\" transform=\"matrix(1 0 0 -1 153 121.333)\"/><path d=\"M3.57869e-06-1 22.67-0.999919 22.67 1.00008-3.57869e-06 1ZM21.3367-3.99992 29.3367 0.000104987 21.3367 4.00008Z\" transform=\"matrix(1 0 0 -1 298 121)\"/><rect x=\"38\" y=\"107\" width=\"115\" height=\"28\" stroke=\"#000000\" stroke-width=\"2\" stroke-miterlimit=\"8\" fill=\"#FFFFFF\"/><text font-family=\"Arial,Arial_MSFontService,sans-serif\" font-weight=\"400\" font-size=\"16\" transform=\"translate(51.2966 128)\">0000000001</text><rect x=\"182\" y=\"107\" width=\"116\" height=\"28\" stroke=\"#000000\" stroke-width=\"2\" stroke-miterlimit=\"8\" fill=\"#FFFFFF\"/><text font-family=\"Arial,Arial_MSFontService,sans-serif\" font-weight=\"400\" font-size=\"16\" transform=\"translate(195.833 127)\">0000000002</text><rect x=\"327\" y=\"107\" width=\"115\" height=\"28\" stroke=\"#000000\" stroke-width=\"2\" stroke-miterlimit=\"8\" fill=\"#FFFFFF\"/><text font-family=\"Arial,Arial_MSFontService,sans-serif\" font-weight=\"400\" font-size=\"16\" transform=\"translate(340.37 127)\">0000000003</text><path d=\"M385.073 135 385.073 204.932 94 204.932 94 142 96 142 96 203.932 95 202.932 384.073 202.932 383.073 203.932 383.073 135ZM91 143.333 95 135.333 99 143.333Z\"/></g></svg>`,\n      \"2\": `<svg width=\"100\" height=\"100\" xmlns=\"http://www.w3.org/2000/svg\">\n              <circle cx=\"50\" cy=\"50\" r=\"50\" fill=\"green\" />\n              <text x=\"50%\" y=\"55%\" dominant-baseline=\"middle\" text-anchor=\"middle\" font-size=\"20\" fill=\"white\">\n                ${randomNumber}\n              </text>\n            </svg>`,\n      \"3\": `<svg width=\"100\" height=\"100\">\n              <polygon points=\"50,0 0,100 100,100\" fill=\"orange\" />\n            </svg>`,\n      \"4\": `<svg width=\"120\" height=\"120\" viewBox=\"0 0 120 120\">\n              <polygon fill=\"red\" points=\"60,10 73,50 115,50 80,75 93,115 60,90 27,115 40,75 5,50 47,50\"/>\n            </svg>`\n    };\n\n    svgDisplay.innerHTML = svgImages[option] || '<span style=\"color: #999;\">Image area placeholder</span>';\n  }\n</script>",
-        "storeOutMessages": true,
-        "fwdInMessages": true,
-        "resendOnRefresh": true,
-        "templateScope": "local",
-        "className": "",
-        "x": 790,
         "y": 900,
         "wires": [
             []
@@ -16417,29 +16451,6 @@
         "finalize": "",
         "libs": [],
         "x": 540,
-        "y": 1000,
-        "wires": [
-            [
-                "652d6850f9fd4d96"
-            ]
-        ]
-    },
-    {
-        "id": "652d6850f9fd4d96",
-        "type": "ui_template",
-        "z": "3fc007a97f3fcca5",
-        "group": "c1eeeb76da41b819",
-        "name": "SVG Centralizado com 10 Opções",
-        "order": 1,
-        "width": 0,
-        "height": 0,
-        "format": "<div ng-app=\"\">\n  <label>Selec:\n    <select id=\"selectShape\" ng-model=\"selectedShape\">\n      <option ng-repeat=\"i in [].constructor(10) track by $index\" value=\"op{{$index+1}}\">\n        {{$index === 0 ? 'Controle de nível do tanque' :\n          $index === 1 ? 'Controle da vazão de agua na tubulação' :\n          $index === 2 ? 'Controle de pressão de linha da tubulação' :\n          $index === 3 ? 'Controle de pressão do reservatorio' :\n          'Opção ' + ($index + 1)}}\n      </option>\n    </select>\n  </label>\n\n  <svg width=\"400\" height=\"250\">\n    <defs>\n      <marker id=\"arrow\" markerWidth=\"10\" markerHeight=\"7\" refX=\"10\" refY=\"3.5\"\n              orient=\"auto\" markerUnits=\"strokeWidth\">\n        <polygon points=\"0 0, 10 3.5, 0 7\" fill=\"#000\" />\n      </marker>\n    </defs>\n\n    <g ng-show=\"selectedShape === 'op1'\">\n      <rect x=\"25\" y=\"100\" width=\"100\" height=\"60\" fill=\"#ADD8E6\" stroke=\"#000\"/>\n      <text x=\"75\" y=\"135\" text-anchor=\"middle\" font-size=\"14\">{{msg.payload.sensor}}</text>\n\n      <rect x=\"150\" y=\"100\" width=\"100\" height=\"60\" fill=\"#90EE90\" stroke=\"#000\"/>\n      <text x=\"200\" y=\"135\" text-anchor=\"middle\" font-size=\"14\">{{msg.payload.controller}}</text>\n\n      <rect x=\"275\" y=\"100\" width=\"100\" height=\"60\" fill=\"#FFB6C1\" stroke=\"#000\"/>\n      <text x=\"325\" y=\"135\" text-anchor=\"middle\" font-size=\"14\">{{msg.payload.actuator}}</text>\n\n      <line x1=\"125\" y1=\"130\" x2=\"150\" y2=\"130\" stroke=\"#000\" stroke-width=\"2\" marker-end=\"url(#arrow)\"/>\n      <line x1=\"250\" y1=\"130\" x2=\"275\" y2=\"130\" stroke=\"#000\" stroke-width=\"2\" marker-end=\"url(#arrow)\"/>\n      <line x1=\"325\" y1=\"160\" x2=\"325\" y2=\"220\" stroke=\"#000\" stroke-width=\"2\" />\n      <line x1=\"325\" y1=\"220\" x2=\"75\" y2=\"220\" stroke=\"#000\" stroke-width=\"2\" />\n      <line x1=\"75\" y1=\"220\" x2=\"75\" y2=\"160\" stroke=\"#000\" stroke-width=\"2\" marker-end=\"url(#arrow)\"/>\n    </g>\n\n    <g ng-show=\"selectedShape === 'op2'\">\n      <defs>\n        <marker id=\"arrowhead\" markerWidth=\"10\" markerHeight=\"7\" refX=\"10\" refY=\"3.5\" orient=\"auto\">\n          <polygon points=\"0 0, 10 3.5, 0 7\" fill=\"#000\"/>\n        </marker>\n      </defs>\n      <circle cx=\"140\" cy=\"125\" r=\"30\" fill=\"#8F8\" stroke=\"#000\"/>\n      <circle cx=\"260\" cy=\"125\" r=\"30\" fill=\"#8F8\" stroke=\"#000\"/>\n      <line x1=\"170\" y1=\"125\" x2=\"230\" y2=\"125\" stroke=\"#000\" stroke-width=\"2\" marker-end=\"url(#arrowhead)\" />\n      <text x=\"200\" y=\"110\" font-size=\"16\" text-anchor=\"middle\">{{msg.payload.sensor || 0}}</text>\n    </g>\n\n    <g ng-show=\"selectedShape === 'op3'\">\n      <ellipse cx=\"200\" cy=\"125\" rx=\"60\" ry=\"40\" fill=\"#88F\" stroke=\"#000\"/>\n      <text x=\"200\" y=\"125\" font-size=\"20\" text-anchor=\"middle\" alignment-baseline=\"middle\">\n        {{msg.payload.op3 || 0}}\n      </text>\n    </g>\n\n    <g ng-show=\"selectedShape === 'op4'\">\n      <polygon points=\"200,70 250,180 150,180\" fill=\"#FA8\" stroke=\"#000\"/>\n      <text x=\"200\" y=\"130\" font-size=\"20\" text-anchor=\"middle\" alignment-baseline=\"middle\">\n        {{msg.payload.op4 || 0}}\n      </text>\n    </g>\n\n    <g ng-show=\"selectedShape === 'op5'\">\n      <polygon points=\"200,85 215,120 255,120 225,140 240,175 200,155 160,175 175,140 145,120 185,120\" fill=\"#AAF\" stroke=\"#000\"/>\n      <text x=\"200\" y=\"135\" font-size=\"20\" text-anchor=\"middle\" alignment-baseline=\"middle\">\n        {{msg.payload.op5 || 0}}\n      </text>\n    </g>\n\n    <g ng-show=\"selectedShape === 'op6'\">\n      <line x1=\"150\" y1=\"125\" x2=\"250\" y2=\"125\" stroke=\"#000\" stroke-width=\"4\"/>\n      <text x=\"200\" y=\"110\" font-size=\"20\" text-anchor=\"middle\">\n        {{msg.payload.op6 || 0}}\n      </text>\n    </g>\n\n    <g ng-show=\"selectedShape === 'op7'\">\n      <polygon points=\"200,70 250,125 200,180 150,125\" fill=\"#AFF\" stroke=\"#000\"/>\n      <text x=\"200\" y=\"130\" font-size=\"20\" text-anchor=\"middle\" alignment-baseline=\"middle\">\n        {{msg.payload.op7 || 0}}\n      </text>\n    </g>\n\n    <g ng-show=\"selectedShape === 'op8'\">\n      <path d=\"M160 160 A40 40 0 0 1 240 160\" fill=\"none\" stroke=\"#000\" stroke-width=\"4\"/>\n      <text x=\"200\" y=\"150\" font-size=\"20\" text-anchor=\"middle\">\n        {{msg.payload.op8 || 0}}\n      </text>\n    </g>\n\n    <g ng-show=\"selectedShape === 'op9'\">\n      <rect x=\"150\" y=\"90\" width=\"100\" height=\"100\" fill=\"#F8F\" stroke=\"#000\" stroke-width=\"6\"/>\n      <text x=\"200\" y=\"140\" font-size=\"20\" text-anchor=\"middle\" alignment-baseline=\"middle\">\n        {{msg.payload.op9 || 0}}\n      </text>\n    </g>\n\n    <g ng-show=\"selectedShape === 'op10'\">\n      <circle cx=\"200\" cy=\"125\" r=\"40\" fill=\"#8FF\" stroke=\"#000\" stroke-width=\"2\"/>\n      <circle cx=\"200\" cy=\"125\" r=\"30\" fill=\"none\" stroke=\"#444\" stroke-dasharray=\"5,5\"/>\n      <text x=\"200\" y=\"125\" font-size=\"20\" text-anchor=\"middle\" alignment-baseline=\"middle\">\n        {{msg.payload.op10 || 0}}\n      </text>\n    </g>\n  </svg>\n</div>\n",
-        "storeOutMessages": true,
-        "fwdInMessages": true,
-        "resendOnRefresh": true,
-        "templateScope": "local",
-        "className": "",
-        "x": 880,
         "y": 1000,
         "wires": [
             []
