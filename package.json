@@ -3,7 +3,15 @@
     "description": "A Node-RED Project",
     "version": "0.0.1",
     "dependencies": {
-        "nats": "^1.4.12"
+        "nats": "^1.4.12",
+        "@flowfuse/node-red-dashboard": "1.21.0",
+        "@gregoriusrippenstein/node-red-contrib-flow2uml": "0.1.13",
+        "node-red-contrib-opcua": "0.2.332",
+        "node-red-contrib-pilot-plant": "1.0.10",
+        "node-red-contrib-s7": "3.1.0",
+        "node-red-contrib-ui-led": "0.4.11",
+        "node-red-dashboard": "3.6.5",
+        "node-red-node-random": "0.4.1"
     },
     "node-red": {
         "settings": {
